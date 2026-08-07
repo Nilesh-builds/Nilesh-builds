@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Nilesh%20Singh&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20AI%20Trainer%20%7C%20ML%20%26%20Analytics&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<pre align="center">
+ _   _ ___ _     _____ ____  _   _   ____ ___ _   _  ____ _   _ 
+| \ | |_ _| |   | ____/ ___|| | | | / ___|_ _| \ | |/ ___| | | |
+|  \| || || |   |  _| \___ \| |_| | \___ \| ||  \| | |  _| |_| |
+| |\  || || |___| |___ ___) |  _  |  ___) | || |\  | |_| |  _  |
+|_| \_|___|_____|_____|____/|_| |_| |____/___|_| \_|\____|_| |_|
+</pre>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+actionable+insights;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Building+real-world+AI+%26+analytics+projects" alt="Typing SVG" />
-</a>
+**Data Analyst • AI Trainer • Python • SQL • Power BI • Machine Learning**
 
 <br>
 
