@@ -1,200 +1,255 @@
 <div align="center">
 
-<pre align="center">
- _   _ ___ _     _____ ____  _   _   ____ ___ _   _  ____ _   _ 
-| \ | |_ _| |   | ____/ ___|| | | | / ___|_ _| \ | |/ ___| | | |
-|  \| || || |   |  _| \___ \| |_| | \___ \| ||  \| | |  _| |_| |
-| |\  || || |___| |___ ___) |  _  |  ___) | || |\  | |_| |  _  |
-|_| \_|___|_____|_____|____/|_| |_| |____/___|_| \_|\____|_| |_|
-</pre>
+<img width="100%" src="assets/terminal-contributions.png" alt="Terminal-style GitHub contributions heatmap" />
 
-**Data Analyst • AI Trainer • Python • SQL • Power BI • Machine Learning**
+<br/>
 
-<br>
+<img src="https://img.shields.io/badge/BCA%20Data%20Science-Sri%20Balaji%20University-CAFF3C?style=flat-square&labelColor=060D08&color=1A2B1A&logo=graduation-cap&logoColor=CAFF3C" alt="degree" />
+<img src="https://img.shields.io/badge/%F0%9F%93%8D_Pune%2C%20India-1A2B1A?style=flat-square&labelColor=060D08&logoColor=CAFF3C" alt="location" />
+<img src="https://img.shields.io/badge/Open%20to-Data%20Analyst%20Roles-CAFF3C?style=flat-square&labelColor=060D08&logoColor=CAFF3C" alt="open-to" />
 
-<img src="https://img.shields.io/badge/🟢_Open_to_Work-success?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/📍_Pune,_India-A78BFA?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/🎓_BCA_Data_Science-A78BFA?style=for-the-badge&labelColor=0d1117"/>
+<br/><br/>
 
-</div>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=060D08" alt="linkedin" /></a>
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=060D08" alt="email" /></a>
+<a href="https://github.com/Nilesh-builds"><img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=000000&labelColor=060D08" alt="github" /></a>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<br/><br/>
 
-<div align="center">
-  <h2>✨ About Me</h2>
-</div>
-
-<table width="100%">
-<tr>
-<td>
-
-- 📊 Turning raw data into actionable insights through **Python, SQL & Machine Learning**
-- 🧠 Grounded in **ML/AI fundamentals** — deep learning, NLP, prompt engineering, model evaluation
-- ☁️ Cloud data workflow experience from an **AWS-focused internship** at CodeFirst Technology Asia
-- 📈 Most recently shipped an **end-to-end customer churn analysis**, with a Power BI dashboard in progress
-- 🎯 Currently seeking a **Data Analyst** or **AI Trainer** role applying analytical and model-evaluation skills to real business problems
-- 💬 Ask me about **data cleaning, EDA, Power BI dashboards, or classification models**
-
-> 🎯 **Mission:** Apply data analysis and machine learning to solve real business problems, one clean dataset at a time.
-
-</td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<div align="center">
-
-## 🛠️ Skills & Tech Stack
-
-### 👨‍💻 Programming Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-
-### 🤖 AI & Machine Learning
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-4B0082?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Natural%20Language%20Processing-3B82F6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-8E44AD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
-
-### 📊 Data Science & Visualization
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/DAX-217346?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power%20Query-E97627?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EDA-6C5CE7?style=for-the-badge"/>
-
-### ⚙️ Tools & Cloud
-<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=Nilesh-builds&style=flat-square&color=CAFF3C&labelColor=060D08&label=Profile+Views" alt="views" />
+<img src="https://img.shields.io/github/followers/Nilesh-builds?style=flat-square&color=CAFF3C&labelColor=060D08&logo=github&label=Followers" alt="followers" />
+<img src="https://img.shields.io/github/stars/Nilesh-builds?style=flat-square&color=CAFF3C&labelColor=060D08&logo=github&label=Stars" alt="stars" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+---
 
-<div align="center">
-  <h2>📌 Pinned Project</h2>
-</div>
+## `> whoami`
 
-<table width="100%">
-<tr>
-<td>
+BCA student specializing in **Data Science** at Sri Balaji University, Pune, building toward a career as a **Data Analyst**. I turn messy datasets into clean pipelines, models, and dashboards — from raw CSVs through EDA and machine learning to business-ready Power BI dashboards.
 
-### 📉 Customer Churn Analysis — Telco Customer Dataset
-**[View Repository →](https://github.com/Nilesh-builds/customer-churn-analysis)**
+Alongside my coursework, I've worked as a **Cloud Application Developer intern** at Codefirst Technology, and I'm actively building an end-to-end analytics portfolio on GitHub.
 
-`Python` • `Pandas` • `Scikit-learn` • `Jupyter Notebook` • `Power BI`
+```bash
+$ cat .profile
 
-An end-to-end churn analysis on a 7,000+ row telecom dataset, from raw data to business recommendations.
+ROLE        =  Aspiring Data Analyst
+STATUS      =  BCA (Data Science) Student — Sri Balaji University
+DOMAIN      =  Analytics  |  Machine Learning  |  BI Dashboards
+TOOLS       =  Python  |  SQL  |  Power BI  |  Excel  |  R
+INTERNSHIP  =  Cloud Application Developer — Codefirst Technology
+PORTFOLIO   =  Customer Churn Analysis  |  Restaurant Demand Forecasting
+LOCATION    =  Pune, India
+OPEN_TO     =  Data Analyst  |  Business Analyst  |  AI Trainer Roles
+```
 
-- 🧹 Cleaned and explored a 7,000+ row dataset, resolving data type and missing value issues to prepare it for modeling
-- 🎯 Designed a rule-based risk scoring system and trained three models — Logistic Regression, Random Forest, and a class-balanced Random Forest — selecting the final model on business trade-offs
-- 💡 Delivered five actionable business recommendations to reduce customer churn
-- 📊 Power BI dashboard in progress as a follow-on deliverable
+---
 
-</td>
-</tr>
-</table>
-
-<div align="center">
-<sub>💡 Don't forget to actually <b>pin</b> this repo on your GitHub profile — go to your profile → Customize your pins → select <code>customer-churn-analysis</code>.</sub>
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+## `> ls /tech-stack`
 
 <div align="center">
 
-## 📈 GitHub Statistics
+**[ Languages ]**
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Nilesh-builds&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilesh-builds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/>
+<img src="https://skillicons.dev/icons?i=python,r,html,css,bash&theme=dark" alt="languages" />
 
-<img src="https://streak-stats.demolab.com?user=Nilesh-builds&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
+**[ Data &amp; Analytics ]**
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nilesh-builds&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="data" />
+
+**[ Cloud &amp; Tools ]**
+
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode&theme=dark" alt="cloud" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<br/>
 
 <div align="center">
 
-## 💼 Experience
+**[ Analytics &amp; ML ]**
 
-**Cloud Application Developer Intern** — CodeFirst Technology Asia *(Remote)*
-`April 2025 – Present`
+<img src="https://img.shields.io/badge/Power%20BI-CAFF3C?style=flat-square&logo=powerbi&logoColor=000000&labelColor=060D08" alt="powerbi" />
+<img src="https://img.shields.io/badge/Excel%20%2F%20Solver-CAFF3C?style=flat-square&logo=microsoftexcel&logoColor=000000&labelColor=060D08" alt="excel" />
+<img src="https://img.shields.io/badge/SQL-CAFF3C?style=flat-square&logo=postgresql&logoColor=000000&labelColor=060D08" alt="sql" />
+<img src="https://img.shields.io/badge/PySpark-CAFF3C?style=flat-square&logo=apachespark&logoColor=000000&labelColor=060D08" alt="pyspark" />
+<img src="https://img.shields.io/badge/Machine%20Learning-CAFF3C?style=flat-square&labelColor=060D08" alt="ml" />
+<img src="https://img.shields.io/badge/Deep%20Learning-CAFF3C?style=flat-square&labelColor=060D08" alt="dl" />
+<img src="https://img.shields.io/badge/NLP-CAFF3C?style=flat-square&labelColor=060D08" alt="nlp" />
+<img src="https://img.shields.io/badge/Computer%20Vision-CAFF3C?style=flat-square&labelColor=060D08" alt="cv" />
+<img src="https://img.shields.io/badge/Reinforcement%20Learning-CAFF3C?style=flat-square&labelColor=060D08" alt="rl" />
+<img src="https://img.shields.io/badge/AWS%20Cloud--Native-CAFF3C?style=flat-square&logo=amazonaws&logoColor=000000&labelColor=060D08" alt="aws" />
 
 </div>
 
-<table width="100%">
-<tr>
-<td>
+---
 
-- Completed a structured Cloud Application Developer training program covering AWS cloud fundamentals, SQL, PySpark, and Excel-based reporting
-- Applied SQL and PySpark to process and query datasets in support of cloud-based application development tasks
-- Built foundational experience with AWS services relevant to data storage and application deployment, earning a Certificate of Completion (Apr–Jun 2025)
+## `> cat analytics-expertise.json`
 
-</td>
-</tr>
-</table>
+| Domain | Proficiency | Details |
+| :-- | :-- | :-- |
+| **Data Cleaning &amp; EDA** | `█████ Advanced` | Pandas, missing-value handling, outlier detection, feature engineering |
+| **Machine Learning** | `████░ Intermediate` | Logistic Regression, Random Forest, Decision Trees, model selection on business criteria |
+| **Data Visualization** | `████░ Intermediate` | Power BI dashboards, Excel reporting, matplotlib/seaborn charting |
+| **SQL &amp; Databases** | `████░ Intermediate` | Querying, joins, aggregation for analysis-ready datasets |
+| **Statistical Analysis** | `████░ Intermediate` | Hypothesis-driven EDA, risk scoring, business recommendation write-ups |
+| **Cloud (AWS)** | `███░░ Working Knowledge` | Cloud-native architecture from Codefirst Technology internship |
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+---
+
+## `> ls /projects --sort=impact`
+
+<details open>
+<summary><b>&#9654; Customer Churn Analysis &mdash; Telco Dataset</b></summary>
+
+<br/>
+
+End-to-end churn analysis: cleaning, EDA, a rule-based risk scoring system, and three trained models — culminating in business recommendations for retention strategy.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Python &middot; Pandas &middot; scikit-learn &middot; Jupyter Notebook |
+| **Data Prep** | Numeric coercion of `TotalCharges`, missing-value handling, duplicate investigation |
+| **Modeling** | Logistic Regression &middot; Random Forest (default) &middot; Random Forest (class-weighted) |
+| **Selection** | Balanced Random Forest chosen on business reasoning, not just accuracy |
+| **Deliverables** | Executive summary, exported charts, 5 business recommendations |
+| **Follow-on** | Power BI dashboard built on top of exported project outputs |
+| **Repo** | [`github.com/Nilesh-builds/customer-churn-analysis`](https://github.com/Nilesh-builds/customer-churn-analysis) |
+
+</details>
+
+<details>
+<summary><b>&#9654; Restaurant Demand Forecasting &mdash; Reducing Food Waste</b></summary>
+
+<br/>
+
+Demand and prep forecasting model built on public restaurant sales data, framed around helping restaurants cut food waste through better prep planning.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Python &middot; Pandas &middot; Power BI |
+| **Goal** | Forecast demand to right-size prep and reduce waste |
+| **Deliverable** | Power BI dashboard summarizing forecast vs. actual demand |
+| **Status** | In progress — part of an active portfolio build |
+| **Repo** | `coming soon` |
+
+</details>
+
+---
+
+## `> cat experience.log`
+
+**Cloud Application Developer (Intern)** &mdash; **Codefirst Technology**
+
+Hands-on experience building cloud-native applications, applying AWS fundamentals alongside coursework in data science.
+
+`AWS` `Cloud-Native Architecture` `Application Development`
+
+---
+
+## `> git log --oneline /education`
 
 <div align="center">
 
-## 🎓 Education
-
-**Bachelor of Computer Applications (BCA), Data Science Specialization**
-Sri Balaji University, Pune | `August 2023 – April 2026`
+<img src="https://img.shields.io/badge/BCA%20%E2%80%94%20Data%20Science-Sri%20Balaji%20University-CAFF3C?style=for-the-badge&logo=academia&logoColor=000000&labelColor=060D08" alt="education" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+---
+
+## `> cat certifications.sh`
 
 <div align="center">
 
-## 📜 Certifications
-
-`Complete Guide to Power BI for Data Analysts — Microsoft Press (2024)` • `SQL for Data Analysis` • `Python for Data Analysis: Solve Real-World Challenges` • `Machine Learning with Python: Foundations` • `Applied Machine Learning: Foundations` • `Deep Learning: Image Recognition` • `R for Data Science: Analysis and Visualization` • `Excel and ChatGPT: Data Analysis Power Tips` • `Introduction to Data Science`
+<img src="https://img.shields.io/badge/Power%20BI%20for%20Data%20Analysts-Microsoft%20Press-CAFF3C?style=flat-square&labelColor=060D08" alt="powerbi-cert" />
+<img src="https://img.shields.io/badge/SQL%20for%20Data%20Analysis-CAFF3C?style=flat-square&labelColor=060D08" alt="sql-cert" />
+<img src="https://img.shields.io/badge/Python%20for%20Data%20Analysis-CAFF3C?style=flat-square&labelColor=060D08" alt="python-cert" />
+<img src="https://img.shields.io/badge/Machine%20Learning%20with%20Python-CAFF3C?style=flat-square&labelColor=060D08" alt="ml-cert" />
+<img src="https://img.shields.io/badge/Deep%20Learning%3A%20Image%20Recognition-CAFF3C?style=flat-square&labelColor=060D08" alt="dl-cert" />
+<img src="https://img.shields.io/badge/R%20for%20Data%20Science-CAFF3C?style=flat-square&labelColor=060D08" alt="r-cert" />
+<img src="https://img.shields.io/badge/Excel%20%2B%20ChatGPT%20Power%20Tips-CAFF3C?style=flat-square&labelColor=060D08" alt="excel-cert" />
+<img src="https://img.shields.io/badge/Intro%20to%20Data%20Science-CAFF3C?style=flat-square&labelColor=060D08" alt="ds-cert" />
+<img src="https://img.shields.io/badge/Advanced%20Algorithmic%20Thinking-CAFF3C?style=flat-square&labelColor=060D08" alt="algo-cert" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+---
+
+## `> git stats --global`
 
 <div align="center">
 
-## 🤝 Let's Connect
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nilesh-builds&show_icons=true&count_private=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08" alt="stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Nilesh-builds&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=39FF14&currStreakLabel=CAFF3C&sideLabels=8AFF57&dates=8AFF57&currStreakNum=CAFF3C&sideNums=CAFF3C" alt="streak" />
 
-<p>
-I'm always open to discussing <b>Data Analysis, AI, Machine Learning & Power BI</b>, and Data Analyst / AI Trainer opportunities.<br>
-Feel free to connect, collaborate, or just say hello! 🚀
-</p>
+<br/>
 
-<a href="https://github.com/Nilesh-builds">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:kumarnilash509@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilesh-builds&layout=compact&hide_border=true&langs_count=8&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08" alt="top-langs" />
 
-<br><br>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=Nilesh-builds&label=Profile%20Views&color=A78BFA&style=for-the-badge" />
+---
 
-<br><br>
-<i>⭐ Thanks for visiting my profile! Happy Coding! 🚀</i>
+## `> trophy-case --display`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nilesh-builds&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+
+</div>
+
+---
+
+## `> activity-graph --timeline`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nilesh-builds&bg_color=0A0F08&color=CAFF3C&line=8AFF57&point=CAFF3C&area=true&area_color=1A2B0A&hide_border=true" alt="activity-graph" />
+
+</div>
+
+---
+
+## `> cat current-focus.yaml`
+
+```yaml
+learning:
+  - Advanced machine learning & model evaluation
+  - Power BI dashboard design for business storytelling
+
+building:
+  - customer-churn-analysis   # Telco churn EDA + ML + Power BI
+  - restaurant-demand-forecasting  # Demand forecasting to reduce food waste
+
+studying:
+  - BCA, Data Science — Sri Balaji University, Pune
+
+open_to:
+  - Data Analyst roles
+  - Business Analyst roles
+  - AI Trainer roles
+```
+
+---
+
+## `> ping me`
+
+<div align="center">
+
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-CAFF3C?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=060D08" alt="gmail" /></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=060D08" alt="linkedin" /></a>
+<a href="https://github.com/Nilesh-builds"><img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=000000&labelColor=060D08" alt="github" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub><i>// student by day &nbsp;|&nbsp; building an analytics portfolio, one dataset at a time</i></sub>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0a0f08&fontColor=CAFF3C" alt="footer" />
 
 </div>
