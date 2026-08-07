@@ -12,9 +12,9 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/📊_Data_Analyst-A78BFA?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/🤖_AI_Trainer-A78BFA?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/🌱_Always_Learning-A78BFA?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🟢_Open_to_Work-success?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/📍_Pune,_India-A78BFA?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🎓_BCA_Data_Science-A78BFA?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
 
@@ -29,10 +29,11 @@
 <td>
 
 - 📊 Turning raw data into actionable insights through **Python, SQL & Machine Learning**
-- 🧠 Grounded in **ML/AI fundamentals** — classification, deep learning, prompt engineering
+- 🧠 Grounded in **ML/AI fundamentals** — deep learning, NLP, prompt engineering, model evaluation
 - ☁️ Cloud data workflow experience from an **AWS-focused internship** at CodeFirst Technology Asia
 - 📈 Most recently shipped an **end-to-end customer churn analysis**, with a Power BI dashboard in progress
-- 🎯 Seeking a **Data Analyst** or **AI Trainer** role applying analytical and model-evaluation skills to real business problems
+- 🎯 Currently seeking a **Data Analyst** or **AI Trainer** role applying analytical and model-evaluation skills to real business problems
+- 💬 Ask me about **data cleaning, EDA, Power BI dashboards, or classification models**
 
 > 🎯 **Mission:** Apply data analysis and machine learning to solve real business problems, one clean dataset at a time.
 
@@ -85,6 +86,36 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <div align="center">
+  <h2>📌 Pinned Project</h2>
+</div>
+
+<table width="100%">
+<tr>
+<td>
+
+### 📉 Customer Churn Analysis — Telco Customer Dataset
+**[View Repository →](https://github.com/Nilesh-builds/customer-churn-analysis)**
+
+`Python` • `Pandas` • `Scikit-learn` • `Jupyter Notebook` • `Power BI`
+
+An end-to-end churn analysis on a 7,000+ row telecom dataset, from raw data to business recommendations.
+
+- 🧹 Cleaned and explored a 7,000+ row dataset, resolving data type and missing value issues to prepare it for modeling
+- 🎯 Designed a rule-based risk scoring system and trained three models — Logistic Regression, Random Forest, and a class-balanced Random Forest — selecting the final model on business trade-offs
+- 💡 Delivered five actionable business recommendations to reduce customer churn
+- 📊 Power BI dashboard in progress as a follow-on deliverable
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub>💡 Don't forget to actually <b>pin</b> this repo on your GitHub profile — go to your profile → Customize your pins → select <code>customer-churn-analysis</code>.</sub>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<div align="center">
 
 ## 📈 GitHub Statistics
 
@@ -93,9 +124,51 @@
 
 <img src="https://streak-stats.demolab.com?user=Nilesh-builds&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nilesh-builds&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff"/>
-
 <img src="https://github-profile-trophy.vercel.app/?username=Nilesh-builds&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<div align="center">
+
+## 💼 Experience
+
+**Cloud Application Developer Intern** — CodeFirst Technology Asia *(Remote)*
+`April 2025 – Present`
+
+</div>
+
+<table width="100%">
+<tr>
+<td>
+
+- Completed a structured Cloud Application Developer training program covering AWS cloud fundamentals, SQL, PySpark, and Excel-based reporting
+- Applied SQL and PySpark to process and query datasets in support of cloud-based application development tasks
+- Built foundational experience with AWS services relevant to data storage and application deployment, earning a Certificate of Completion (Apr–Jun 2025)
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<div align="center">
+
+## 🎓 Education
+
+**Bachelor of Computer Applications (BCA), Data Science Specialization**
+Sri Balaji University, Pune | `August 2023 – April 2026`
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<div align="center">
+
+## 📜 Certifications
+
+`Complete Guide to Power BI for Data Analysts — Microsoft Press (2024)` • `SQL for Data Analysis` • `Python for Data Analysis: Solve Real-World Challenges` • `Machine Learning with Python: Foundations` • `Applied Machine Learning: Foundations` • `Deep Learning: Image Recognition` • `R for Data Science: Analysis and Visualization` • `Excel and ChatGPT: Data Analysis Power Tips` • `Introduction to Data Science`
 
 </div>
 
@@ -121,6 +194,7 @@ Feel free to connect, collaborate, or just say hello! 🚀
 
 <img src="https://komarev.com/ghpvc/?username=Nilesh-builds&label=Profile%20Views&color=A78BFA&style=for-the-badge" />
 
-</div>
+<br><br>
+<i>⭐ Thanks for visiting my profile! Happy Coding! 🚀</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+</div>
