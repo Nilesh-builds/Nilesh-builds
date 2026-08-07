@@ -1,22 +1,26 @@
 <div align="center">
 
-<pre align="center">
- _   _ ___ _     _____ ____  _   _   ____ ___ _   _  ____ _   _ 
-| \ | |_ _| |   | ____/ ___|| | | | / ___|_ _| \ | |/ ___| | | |
-|  \| || || |   |  _| \___ \| |_| | \___ \| ||  \| | |  _| |_| |
-| |\  || || |___| |___ ___) |  _  |  ___) | || |\  | |_| |  _  |
-|_| \_|___|_____|_____|____/|_| |_| |____/___|_| \_|\____|_| |_|
-</pre>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Nilesh%20Singh&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20AI%20Trainer%20%7C%20ML%20%26%20Analytics&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-**Data Analyst • AI Trainer • Python • SQL • Power BI • Machine Learning**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+actionable+insights;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Building+real-world+AI+%26+analytics+projects" alt="Typing SVG" />
+</a>
+
+<br>
+
+<img src="https://img.shields.io/badge/📊_Data_Analyst-A78BFA?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🤖_AI_Trainer-A78BFA?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🌱_Always_Learning-A78BFA?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <div align="center">
-  <h2>About Me</h2>
+  <h2>✨ About Me</h2>
 </div>
 
-<table>
+<table width="100%">
 <tr>
 <td>
 
@@ -32,102 +36,59 @@
 </tr>
 </table>
 
-<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40"> Skills & Tech Stack
-
-</div>
-
-<div align="center">
+## 🛠️ Skills & Tech Stack
 
 ### 👨‍💻 Programming Languages
-<p>
-<img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
-<img src="https://img.icons8.com/color/48/r-project.png" alt="R"/>
-<img src="https://img.icons8.com/color/48/mysql-logo.png" alt="SQL"/>
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 
 ### 🤖 AI & Machine Learning
-`Machine Learning` • `Classification` • `Decision Trees` • `Clustering` • `Deep Learning` • `Reinforcement Learning Fundamentals` • `Prompt Engineering (ChatGPT)` • `Model Evaluation`
+<img src="https://img.shields.io/badge/Machine%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Classification-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Decision%20Trees-27AE60?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clustering-2980B9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Model%20Evaluation-34495E?style=for-the-badge"/>
 
 ### 📊 Data Science & Visualization
-<p>
-<img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI"/>
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel"/>
-<img src="https://img.icons8.com/color/48/jupyter.png" alt="Jupyter"/>
-</p>
-`Data Cleaning` • `Exploratory Data Analysis` • `Statistical Analysis` • `Data Visualization` • `Dashboarding`
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
 ### ⚙️ Tools & Cloud
-<p>
-<img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
-<img src="https://img.icons8.com/color/48/github--v1.png" alt="GitHub"/>
-<img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS"/>
-</p>
-`Jupyter Notebook` • `PySpark` • `Algorithms & Data Structures`
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <div align="center">
 
-`🎓 Student` &nbsp; `📊 Data Analyst` &nbsp; `🐍 Pythonist` &nbsp; `🤖 AI Explorer` &nbsp; `🌱 Always Learning`
+## 📈 GitHub Statistics
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Nilesh-builds&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilesh-builds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/>
+
+<img src="https://streak-stats.demolab.com?user=Nilesh-builds&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nilesh-builds&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nilesh-builds&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10"/>
 
 </div>
 
-<br>
-
-<div align="center">
-
-## <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="45px"> GitHub Statistics
-
-<table>
-<tr>
-<td align="center">
-<img width="100%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Nilesh-builds&theme=github_dark&hide_border=true"/>
-</td>
-</tr>
-</table>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nilesh-builds&theme=github-dark&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 💼 Experience
-
-</div>
-
-<table>
-<tr>
-<td>
-
-**Cloud Application Developer Intern** — CodeFirst Technology Asia *(Remote)*
-`April 2025 – Present`
-
-- Completed a structured Cloud Application Developer training program covering AWS cloud fundamentals, SQL, PySpark, and Excel-based reporting
-- Applied SQL and PySpark to process and query datasets in support of cloud-based application development tasks
-- Built foundational experience with AWS services relevant to data storage and application deployment, earning a Certificate of Completion (Apr–Jun 2025)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-## 📜 Certifications
-
-`Complete Guide to Power BI for Data Analysts — Microsoft Press (2024)` • `SQL for Data Analysis` • `Python for Data Analysis: Solve Real-World Challenges` • `Machine Learning with Python: Foundations` • `Applied Machine Learning: Foundations` • `Deep Learning: Image Recognition` • `R for Data Science: Analysis and Visualization` • `Excel and ChatGPT: Data Analysis Power Tips` • `Introduction to Data Science`
-
-</div>
-
-<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <div align="center">
 
@@ -138,14 +99,17 @@ I'm always open to discussing <b>Data Analysis, AI, Machine Learning & Power BI<
 Feel free to connect, collaborate, or just say hello! 🚀
 </p>
 
-<p>
-<a href="https://github.com/Nilesh-builds"><img src="https://img.icons8.com/bubbles/60/github.png" width="58" alt="GitHub"/></a>
-<a href="mailto:kumarnilash509@gmail.com"><img src="https://img.icons8.com/bubbles/60/gmail-new.png" width="58" alt="Gmail"/></a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Nilesh-builds&label=Profile%20Views&color=0e75b6&style=flat" />
+<a href="https://github.com/Nilesh-builds">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:kumarnilash509@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <br><br>
-<i>⭐ Thanks for visiting my profile! Happy Coding! 🚀</i>
+
+<img src="https://komarev.com/ghpvc/?username=Nilesh-builds&label=Profile%20Views&color=A78BFA&style=for-the-badge" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
