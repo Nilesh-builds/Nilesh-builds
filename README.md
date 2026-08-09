@@ -141,6 +141,24 @@ Demand and prep forecasting model built on public restaurant sales data, framed 
 
 </details>
 
+<details>
+<summary><b>&#9654; AI HR Automation Suite &mdash; 6 n8n Workflows</b></summary>
+
+<br/>
+
+A suite of six automation workflows built in n8n to streamline common HR processes end-to-end — from onboarding through candidate screening.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | n8n &middot; Google Sheets &middot; OpenAI GPT-4 &middot; Gmail/Slack/WhatsApp integrations |
+| **Workflows** | Employee Onboarding Automation &middot; Leave Management System &middot; Employee Sentiment & Feedback Analyzer &middot; AI-Powered Policy Q&A Bot &middot; AI Resume Screener & Candidate Ranker &middot; WhatsApp HR Chatbot |
+| **Data Layer** | Google Sheets as the shared data store across workflows |
+| **AI Layer** | GPT-4 used for sentiment analysis, Q&A responses, and resume ranking |
+| **Notifications** | Gmail, Slack, and WhatsApp integrations for HR-facing alerts |
+| **Repo** | `coming soon` |
+
+</details>
+
 ---
 
 ## `> cat experience.log`
@@ -226,6 +244,7 @@ learning:
 building:
   - customer-churn-analysis   # Telco churn EDA + ML + Power BI
   - restaurant-demand-forecasting  # Demand forecasting to reduce food waste
+  - ai-hr-automation-suite    # 6 n8n workflows automating HR processes
 
 studying:
   - BCA, Data Science — Sri Balaji University, Pune
