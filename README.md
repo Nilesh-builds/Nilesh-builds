@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="assets/terminal-contributions.png" alt="Terminal-style GitHub contributions heatmap" />
+<img width="360" src="assets/portrait_terminal.png" alt="Terminal-style dot-matrix portrait of Nilesh" />
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/BCA%20Data%20Science-Sri%20Balaji%20University-CAFF3C?style=flat-square&labelColor=060D08&color=1A2B1A&logo=graduation-cap&logoColor=CAFF3C" alt="degree" />
 <img src="https://img.shields.io/badge/%F0%9F%93%8D_Pune%2C%20India-1A2B1A?style=flat-square&labelColor=060D08&logoColor=CAFF3C" alt="location" />
