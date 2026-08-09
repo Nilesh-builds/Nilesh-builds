@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="110" src="assets/portrait_terminal.png" alt="Terminal-style dot-matrix portrait of Nilesh" />
+<img width="360" src="assets/portrait_terminal.png" alt="Terminal-style dot-matrix portrait of Nilesh" />
 
 <br/><br/>
 
