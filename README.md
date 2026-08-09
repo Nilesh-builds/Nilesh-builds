@@ -4,21 +4,27 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/BCA%20Data%20Science-Sri%20Balaji%20University-CAFF3C?style=flat-square&labelColor=060D08&color=1A2B1A&logo=graduation-cap&logoColor=CAFF3C" alt="degree" />
-<img src="https://img.shields.io/badge/%F0%9F%93%8D_Pune%2C%20India-1A2B1A?style=flat-square&labelColor=060D08&logoColor=CAFF3C" alt="location" />
-<img src="https://img.shields.io/badge/Open%20to-Data%20Analyst%20Roles-CAFF3C?style=flat-square&labelColor=060D08&logoColor=CAFF3C" alt="open-to" />
+<img src="https://img.shields.io/badge/🎓_BCA%20Data%20Science-Sri%20Balaji%20University-1A2B1A?style=flat-square&labelColor=060D08&color=132016" alt="degree" />
+&nbsp;
+<img src="https://img.shields.io/badge/📍_Pune-India-1A2B1A?style=flat-square&labelColor=060D08&color=132016" alt="location" />
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20to-Data%20Analyst%20Roles-CAFF3C?style=flat-square&labelColor=060D08" alt="open-to" />
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=060D08" alt="linkedin" /></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=060D08" alt="email" /></a>
-<a href="https://github.com/Nilesh-builds"><img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=000000&labelColor=060D08" alt="github" /></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=060D08&labelColor=060D08" alt="linkedin" /></a>
+&nbsp;&nbsp;
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=060D08&labelColor=060D08" alt="email" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/Nilesh-builds"><img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=060D08&labelColor=060D08" alt="github" /></a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Nilesh-builds&style=flat-square&color=CAFF3C&labelColor=060D08&label=Profile+Views" alt="views" />
-<img src="https://img.shields.io/github/followers/Nilesh-builds?style=flat-square&color=CAFF3C&labelColor=060D08&logo=github&label=Followers" alt="followers" />
-<img src="https://img.shields.io/github/stars/Nilesh-builds?style=flat-square&color=CAFF3C&labelColor=060D08&logo=github&label=Stars" alt="stars" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Nilesh-builds?style=flat-square&color=CAFF3C&labelColor=060D08&logo=github&logoColor=CAFF3C&label=Followers" alt="followers" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/Nilesh-builds?style=flat-square&color=CAFF3C&labelColor=060D08&logo=github&logoColor=CAFF3C&label=Stars" alt="stars" />
 
 </div>
 
