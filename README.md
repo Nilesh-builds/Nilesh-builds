@@ -155,7 +155,7 @@ A suite of six automation workflows built in n8n to streamline common HR process
 | **Data Layer** | Google Sheets as the shared data store across workflows |
 | **AI Layer** | GPT-4 used for sentiment analysis, Q&A responses, and resume ranking |
 | **Notifications** | Gmail, Slack, and WhatsApp integrations for HR-facing alerts |
-| **Repo** | `coming soon` |
+| **Repo** | https://github.com/Nilesh-builds/ai-hr-automation-suite |
 
 </details>
 
