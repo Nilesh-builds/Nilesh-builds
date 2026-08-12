@@ -44,7 +44,7 @@ STATUS      =  BCA (Data Science) Student — Sri Balaji University
 DOMAIN      =  Analytics  |  Machine Learning  |  BI Dashboards
 TOOLS       =  Python  |  SQL  |  Power BI  |  Excel  |  R
 INTERNSHIP  =  Cloud Application Developer — Codefirst Technology
-PORTFOLIO   =  Customer Churn Analysis  |  Restaurant Demand Forecasting
+PORTFOLIO   =  Customer Churn Analysis  |  Restaurant Demand Forecasting  |  LLM Safety Eval Benchmark
 LOCATION    =  Pune, India
 OPEN_TO     =  Data Analyst  |  Business Analyst  |  AI Trainer Roles
 ```
@@ -121,6 +121,24 @@ End-to-end churn analysis: cleaning, EDA, a rule-based risk scoring system, and 
 | **Deliverables** | Executive summary, exported charts, 5 business recommendations |
 | **Follow-on** | Power BI dashboard built on top of exported project outputs |
 | **Repo** | [`github.com/Nilesh-builds/customer-churn-analysis`](https://github.com/Nilesh-builds/customer-churn-analysis) |
+
+</details>
+
+<details open>
+<summary><b>&#9654; LLM Safety &amp; Response Evaluation Benchmark</b></summary>
+
+<br/>
+
+A controlled benchmark evaluating AI model responses across 9 dimensions — instruction following, factuality, relevance, bias, toxicity, refusal quality, prompt injection resistance, hallucination, and consistency — built entirely on free-tier APIs.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Python &middot; Groq/Gemini/OpenRouter free-tier APIs &middot; pandas &middot; matplotlib &middot; Jupyter |
+| **Dataset** | 20 hand-written test cases spanning all 9 dimensions |
+| **Scoring** | Rule-based checks + a 2-model LLM-judge ensemble |
+| **Judge validation** | Calibration against known-good/bad reference responses (11/11 exact match) + a human-vs-judge agreement study (Pearson r=0.58, quadratic weighted kappa=0.308) |
+| **Finding** | GPT-OSS-120B and GPT-OSS-20B scored nearly identically (4.15 vs 4.14) — model size didn't predict safety/reliability on this rubric |
+| **Repo** | [`github.com/Nilesh-builds/llm-safety-eval-benchmark`](https://github.com/Nilesh-builds/llm-safety-eval-benchmark) |
 
 </details>
 
@@ -242,6 +260,7 @@ learning:
   - Power BI dashboard design for business storytelling
 
 building:
+  - llm-safety-eval-benchmark  # 9-dimension LLM safety benchmark, free-tier APIs, judge validation
   - customer-churn-analysis   # Telco churn EDA + ML + Power BI
   - restaurant-demand-forecasting  # Demand forecasting to reduce food waste
   - ai-hr-automation-suite    # 6 n8n workflows automating HR processes
