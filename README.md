@@ -12,11 +12,13 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=060D08&labelColor=060D08" alt="linkedin" /></a>
+<a href="https://www.linkedin.com/in/nilesh-singh-b9b6932bb"><img src="https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=060D08&labelColor=060D08" alt="linkedin" /></a>
 &nbsp;&nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=060D08&labelColor=060D08" alt="email" /></a>
+<a href="mailto:kumarnilash509@gmail.com"><img src="https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=060D08&labelColor=060D08" alt="email" /></a>
 &nbsp;&nbsp;
 <a href="https://github.com/Nilesh-builds"><img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=060D08&labelColor=060D08" alt="github" /></a>
+&nbsp;&nbsp;
+<a href="https://nilesh-builds.github.io/"><img src="https://img.shields.io/badge/Portfolio-CAFF3C?style=for-the-badge&logo=googlechrome&logoColor=060D08&labelColor=060D08" alt="portfolio" /></a>
 
 <br/><br/>
 
@@ -298,9 +300,10 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-CAFF3C?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=060D08" alt="gmail" /></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=060D08" alt="linkedin" /></a>
+<a href="mailto:kumarnilash509@gmail.com"><img src="https://img.shields.io/badge/Gmail-CAFF3C?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=060D08" alt="gmail" /></a>
+<a href="https://www.linkedin.com/in/nilesh-singh-b9b6932bb"><img src="https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=060D08" alt="linkedin" /></a>
 <a href="https://github.com/Nilesh-builds"><img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=000000&labelColor=060D08" alt="github" /></a>
+<a href="https://nilesh-builds.github.io/"><img src="https://img.shields.io/badge/Portfolio-CAFF3C?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=060D08" alt="portfolio" /></a>
 
 </div>
 
