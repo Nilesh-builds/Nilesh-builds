@@ -38,8 +38,6 @@ BCA student specializing in **Data Science** at Sri Balaji University, Pune, bui
 
 Alongside my coursework, I've worked as a **Cloud Application Developer intern** at Codefirst Technology. My portfolio focuses on the work after the model: data quality, evaluation, business trade-offs, and human review.
 
-**Featured live demo:** [Customer Churn Decision Support](https://nilesh-customer-churn.streamlit.app/) — a Python, SQL, scikit-learn, and Streamlit project with cross-validation, cost-sensitive thresholds, and a human review queue.
-
 ```bash
 $ cat .profile
 
