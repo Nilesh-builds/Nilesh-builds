@@ -34,21 +34,23 @@
 
 ## `> whoami`
 
-BCA student specializing in **Data Science** at Sri Balaji University, Pune, building toward a career as a **Data Analyst**. I turn messy datasets into clean pipelines, models, and dashboards — from raw CSVs through EDA and machine learning to business-ready Power BI dashboards.
+BCA student specializing in **Data Science** at Sri Balaji University, Pune, building toward a career in **Data Analytics and AI Evaluation**. I turn messy datasets into tested pipelines, interpretable models, and dashboards — then explain what the evidence can and cannot prove.
 
-Alongside my coursework, I've worked as a **Cloud Application Developer intern** at Codefirst Technology, and I'm actively building an end-to-end analytics portfolio on GitHub.
+Alongside my coursework, I've worked as a **Cloud Application Developer intern** at Codefirst Technology. My portfolio focuses on the work after the model: data quality, evaluation, business trade-offs, and human review.
+
+**Featured live demo:** [Customer Churn Decision Support](https://nilesh-customer-churn.streamlit.app/) — a Python, SQL, scikit-learn, and Streamlit project with cross-validation, cost-sensitive thresholds, and a human review queue.
 
 ```bash
 $ cat .profile
 
-ROLE        =  Aspiring Data Analyst
+ROLE        =  Data Analyst  |  AI Evaluation
 STATUS      =  BCA (Data Science) Student — Sri Balaji University
-DOMAIN      =  Analytics  |  Machine Learning  |  BI Dashboards
+DOMAIN      =  Analytics  |  Data Quality  |  AI Evaluation
 TOOLS       =  Python  |  SQL  |  Power BI  |  Excel  |  R
 INTERNSHIP  =  Cloud Application Developer — Codefirst Technology
 PORTFOLIO   =  Customer Churn Analysis  |  Restaurant Demand Forecasting  |  LLM Safety Eval Benchmark  |  LinguaQ
 LOCATION    =  Pune, India
-OPEN_TO     =  Data Analyst  |  Business Analyst  |  AI Trainer Roles
+OPEN_TO     =  Data Analyst  |  AI Trainer  |  AI Evaluation Roles
 ```
 
 ---
@@ -112,16 +114,16 @@ OPEN_TO     =  Data Analyst  |  Business Analyst  |  AI Trainer Roles
 
 <br/>
 
-End-to-end churn analysis: cleaning, EDA, a rule-based risk scoring system, and three trained models — culminating in business recommendations for retention strategy.
+Production-style churn analysis: data-quality checks, SQL views, leakage-safe modeling, cross-validation, calibration, cost-sensitive thresholds, and a live human-review dashboard.
 
 | Aspect | Detail |
 | :-- | :-- |
-| **Stack** | Python &middot; Pandas &middot; scikit-learn &middot; Jupyter Notebook |
+| **Stack** | Python &middot; SQL &middot; Pandas &middot; scikit-learn &middot; Streamlit |
 | **Data Prep** | Numeric coercion of `TotalCharges`, missing-value handling, duplicate investigation |
 | **Modeling** | Logistic Regression &middot; Random Forest (default) &middot; Random Forest (class-weighted) |
 | **Selection** | Balanced Random Forest chosen on business reasoning, not just accuracy |
-| **Deliverables** | Executive summary, exported charts, 5 business recommendations |
-| **Follow-on** | Power BI dashboard built on top of exported project outputs |
+| **Deliverables** | Tested pipeline, SQLite views, model card, threshold scenarios, live dashboard |
+| **Live demo** | [Customer Churn Decision Support](https://nilesh-customer-churn.streamlit.app/) |
 | **Repo** | [`github.com/Nilesh-builds/customer-churn-analysis`](https://github.com/Nilesh-builds/customer-churn-analysis) |
 
 </details>
