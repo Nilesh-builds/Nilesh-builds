@@ -140,6 +140,7 @@ A controlled benchmark evaluating AI model responses across 9 dimensions — ins
 | **Scoring** | Rule-based checks + a 2-model LLM-judge ensemble |
 | **Judge validation** | Calibration against known-good/bad reference responses (11/11 exact match) + a human-vs-judge agreement study (Pearson r=0.58, quadratic weighted kappa=0.308) |
 | **Finding** | GPT-OSS-120B and GPT-OSS-20B scored nearly identically (4.15 vs 4.14) — model size didn't predict safety/reliability on this rubric |
+| **Live demo** | [LLM Evaluation Evidence Dashboard](https://llm-safety-eval-benchmark-vrjugdrizxtaqt38s6mgep.streamlit.app/) |
 | **Repo** | [`github.com/Nilesh-builds/llm-safety-eval-benchmark`](https://github.com/Nilesh-builds/llm-safety-eval-benchmark) |
 
 </details>
