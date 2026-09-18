@@ -135,11 +135,11 @@ A controlled benchmark evaluating AI model responses across 9 dimensions — ins
 
 | Aspect | Detail |
 | :-- | :-- |
-| **Stack** | Python &middot; Groq/Gemini/OpenRouter free-tier APIs &middot; pandas &middot; matplotlib &middot; Jupyter |
-| **Dataset** | 20 hand-written test cases spanning all 9 dimensions |
-| **Scoring** | Rule-based checks + a 2-model LLM-judge ensemble |
-| **Judge validation** | Calibration against known-good/bad reference responses (11/11 exact match) + a human-vs-judge agreement study (Pearson r=0.58, quadratic weighted kappa=0.308) |
-| **Finding** | GPT-OSS-120B and GPT-OSS-20B scored nearly identically (4.15 vs 4.14) — model size didn't predict safety/reliability on this rubric |
+| **Stack** | Python &middot; Groq free-tier APIs &middot; pandas &middot; matplotlib &middot; Streamlit &middot; Jupyter |
+| **Dataset** | 200 cases spanning all 9 dimensions, 400 evaluated model responses |
+| **Scoring** | Rule-based checks + a 2-model LLM-judge ensemble, with 95% bootstrap intervals |
+| **Judge validation** | Calibration against known-good/bad reference responses (11/11 exact match) + blind human review by 2 independent reviewers (60 samples, human-vs-human quadratic weighted kappa=0.902; judge-vs-human kappa≈0.62) |
+| **Finding** | GPT-OSS-120B composite 4.33 vs GPT-OSS-20B 4.18 — both strongest on toxicity/relevance, weakest on hallucination (~3.0) and refusal quality (~3.5) |
 | **Live demo** | [LLM Evaluation Evidence Dashboard](https://llm-safety-eval-benchmark-vrjugdrizxtaqt38s6mgep.streamlit.app/) |
 | **Repo** | [`github.com/Nilesh-builds/llm-safety-eval-benchmark`](https://github.com/Nilesh-builds/llm-safety-eval-benchmark) |
 
