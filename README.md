@@ -46,7 +46,7 @@ STATUS      =  BCA (Data Science) Student — Sri Balaji University
 DOMAIN      =  Analytics  |  Data Quality  |  AI Evaluation
 TOOLS       =  Python  |  SQL  |  Power BI  |  Excel  |  R
 INTERNSHIP  =  Cloud Application Developer — Codefirst Technology
-PORTFOLIO   =  Customer Churn Analysis  |  Restaurant Demand Forecasting  |  LLM Safety Eval Benchmark  |  LinguaQ
+PORTFOLIO   =  TrainLens  |  Customer Churn Analysis  |  LLM Safety Eval Benchmark  |  Restaurant Forecasting
 LOCATION    =  Pune, India
 OPEN_TO     =  Data Analyst  |  AI Trainer  |  AI Evaluation Roles
 ```
@@ -142,6 +142,26 @@ A controlled benchmark evaluating AI model responses across 9 dimensions — ins
 | **Finding** | GPT-OSS-120B composite 4.28 vs GPT-OSS-20B 4.18 — both strongest on factuality/relevance, weakest on hallucination (~3.1-3.3) and refusal quality (~3.4) |
 | **Live demo** | [LLM Evaluation Evidence Dashboard](https://llm-safety-eval-benchmark-vrjugdrizxtaqt38s6mgep.streamlit.app/) |
 | **Repo** | [`github.com/Nilesh-builds/llm-safety-eval-benchmark`](https://github.com/Nilesh-builds/llm-safety-eval-benchmark) |
+
+</details>
+
+<details open>
+<summary><b>&#9654; TrainLens &mdash; AI Training Data Quality Platform</b></summary>
+
+<br/>
+
+A customer-support data quality and evaluation platform that validates raw tickets, labels category and sentiment, routes uncertain predictions to review, and reports model performance in an interactive dashboard.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Python &middot; pandas &middot; DuckDB &middot; Streamlit &middot; Plotly &middot; scikit-learn |
+| **Quality** | Five dimensions and eleven validation checks |
+| **AI labeling** | Groq batch labeling with a rule-based fallback for free-tier limits |
+| **Review** | Confidence-based human review queue with persistent decisions |
+| **Evaluation** | Accuracy, weighted and macro F1, calibration, confusion matrices, and method-level metrics |
+| **Benchmark** | 852 synthetic support conversations; 98.85% quality score |
+| **Live demo** | [TrainLens Dashboard](https://trainlens-gv48ihtbq6nbapgfrlworc.streamlit.app/) |
+| **Repo** | [`github.com/Nilesh-builds/trainlens`](https://github.com/Nilesh-builds/trainlens) |
 
 </details>
 
@@ -280,6 +300,7 @@ learning:
   - Power BI dashboard design for business storytelling
 
 building:
+  - trainlens                   # Customer-support data quality, AI labeling, and evaluation dashboard
   - llm-safety-eval-benchmark  # 9-dimension LLM safety benchmark, free-tier APIs, judge validation
   - customer-churn-analysis   # Telco churn EDA + ML + Power BI
   - restaurant-demand-forecasting  # Demand forecasting to reduce food waste
