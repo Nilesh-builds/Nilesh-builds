@@ -9,6 +9,8 @@ jobs:
   snake:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: Platane/snk@v3
