@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="28" viewBox="0 0 880 28">
+  <style>
+    .pulse { fill: #CAFF3C; animation: scan 3s ease-in-out infinite; }
+    @keyframes scan { 0%,100% { opacity: 0.25; } 50% { opacity: 1; } }
+  </style>
+  <line x1="0" y1="14" x2="830" y2="14" stroke="#22331E" stroke-width="2"/>
+  <text x="842" y="20" fill="#CAFF3C" font-size="16" font-family="ui-monospace,Menlo,Consolas,monospace">$</text>
+  <circle class="pulse" cx="868" cy="14" r="5"/>
+</svg>
