@@ -46,7 +46,7 @@ STATUS      =  BCA (Data Science) Student — Sri Balaji University
 DOMAIN      =  Analytics  |  Data Quality  |  AI Evaluation
 TOOLS       =  Python  |  SQL  |  Power BI  |  Excel  |  R
 INTERNSHIP  =  Cloud Application Developer — Codefirst Technology
-PORTFOLIO   =  TrainLens  |  Customer Churn Analysis  |  LLM Safety Eval Benchmark  |  Restaurant Forecasting
+PORTFOLIO   =  TrainLens  |  Customer Churn Analysis  |  LLM Safety Eval Benchmark
 LOCATION    =  Pune, India
 OPEN_TO     =  Data Analyst  |  AI Trainer  |  AI Evaluation Roles
 ```
@@ -165,39 +165,7 @@ A customer-support data quality and evaluation platform that validates raw ticke
 
 </details>
 
-<details>
-<summary><b>&#9654; LinguaQ &mdash; Language Detection App</b></summary>
 
-<br/>
-
-A Streamlit web app that detects the language of any input text in real time.
-
-| Aspect | Detail |
-| :-- | :-- |
-| **Stack** | Python &middot; Pandas &middot; Streamlit &middot; langdetect |
-| **Function** | Takes text input, returns the detected language |
-| **Interface** | Interactive Streamlit web app |
-| **Status** | Finished and working |
-| **Repo** | [`github.com/Nilesh-builds/linguaq`](https://github.com/Nilesh-builds/linguaq) |
-
-</details>
-
-<details>
-<summary><b>&#9654; Restaurant Demand Forecasting &mdash; Reducing Food Waste</b></summary>
-
-<br/>
-
-Demand and prep forecasting model built on public restaurant sales data, framed around helping restaurants cut food waste through better prep planning.
-
-| Aspect | Detail |
-| :-- | :-- |
-| **Stack** | Python &middot; Pandas &middot; Power BI |
-| **Goal** | Forecast demand to right-size prep and reduce waste |
-| **Deliverable** | Power BI dashboard summarizing forecast vs. actual demand |
-| **Status** | In progress — part of an active portfolio build |
-| **Repo** | `coming soon` |
-
-</details>
 
 <details>
 <summary><b>&#9654; AI HR Automation Suite &mdash; 6 n8n Workflows</b></summary>
@@ -303,9 +271,7 @@ building:
   - trainlens                   # Customer-support data quality, AI labeling, and evaluation dashboard
   - llm-safety-eval-benchmark  # 9-dimension LLM safety benchmark, free-tier APIs, judge validation
   - customer-churn-analysis   # Telco churn EDA + ML + Power BI
-  - restaurant-demand-forecasting  # Demand forecasting to reduce food waste
   - ai-hr-automation-suite    # 6 n8n workflows automating HR processes
-  - linguaq                   # Streamlit language detection app
 
 studying:
   - BCA, Data Science — Sri Balaji University, Pune
