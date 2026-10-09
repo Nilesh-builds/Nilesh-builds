@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="232" height="60" viewBox="0 0 232 60" role="img" aria-labelledby="t d" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace">
+<title id="t">Email</title><desc id="d">Link button: Email</desc>
+<defs><filter id="bl4" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="4"/></filter><filter id="bl60" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter><filter id="bl2" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="2"/></filter><clipPath id="rc"><rect width="232" height="60" rx="16"/></clipPath>
+<linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".16"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<style>
+text{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace}
+.pre{white-space:pre}
+.rv{opacity:0}
+@media (prefers-reduced-motion:reduce){
+*{animation:none!important}
+.rv{opacity:1!important}
+.alt{display:none}
+}
+.beam{stroke-dasharray:12 88;animation:beam 7s linear infinite}@keyframes beam{to{stroke-dashoffset:-100}}
+.shine{animation:shine 5s ease-in-out infinite;animation-delay:1.2s}
+@keyframes shine{0%,55%{transform:translateX(-90px) skewX(-20deg)}100%{transform:translateX(322px) skewX(-20deg)}}
+.arrow{animation:nudge 1.8s ease-in-out infinite} @keyframes nudge{0%,100%{transform:translate(0,0)}50%{transform:translate(3px,-3px)}}
+</style>
+
+<g clip-path="url(#rc)">
+  <rect width="232" height="60" fill="#0A0F08"/>
+  <rect class="shine" x="0" y="0" width="70" height="60" fill="url(#sh)"/>
+  <rect x="12" y="12" width="36" height="36" rx="10" fill="#CAFF3C"/>
+  <text x="30" y="36" text-anchor="middle" font-size="15" font-weight="800" fill="#050A07">@</text>
+  <text x="62" y="36" font-size="15" font-weight="700" letter-spacing="1.4" fill="#E8F5E1">EMAIL</text>
+  <text class="arrow" x="202" y="37" font-size="18" font-weight="700" fill="#CAFF3C">↗</text>
+</g>
+<rect x="1.2" y="1.2" width="229.6" height="57.6" rx="16" pathLength="100" fill="none" stroke="#22331E" stroke-width="1.5"/><rect class="beam" x="1.2" y="1.2" width="229.6" height="57.6" rx="16" pathLength="100" fill="none" stroke="#CAFF3C" stroke-width="5" opacity=".45" filter="url(#bl4)" style="animation-duration:5.5s;animation-delay:-2.4s"/><rect class="beam" x="1.2" y="1.2" width="229.6" height="57.6" rx="16" pathLength="100" fill="none" stroke="#CAFF3C" stroke-width="2" stroke-linecap="round" style="animation-duration:5.5s;animation-delay:-2.4s"/>
+
+</svg>

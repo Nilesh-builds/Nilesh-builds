@@ -1,9 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="28" viewBox="0 0 880 28">
-  <style>
-    .pulse { fill: #CAFF3C; animation: scan 3s ease-in-out infinite; }
-    @keyframes scan { 0%,100% { opacity: 0.25; } 50% { opacity: 1; } }
-  </style>
-  <line x1="0" y1="14" x2="830" y2="14" stroke="#22331E" stroke-width="2"/>
-  <text x="842" y="20" fill="#CAFF3C" font-size="16" font-family="ui-monospace,Menlo,Consolas,monospace">$</text>
-  <circle class="pulse" cx="868" cy="14" r="5"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="24" viewBox="0 0 1000 24" role="img" aria-labelledby="t d" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace">
+<title id="t">divider</title><desc id="d"></desc>
+<defs><linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5E8F2F" stop-opacity="0"/><stop offset=".5" stop-color="#5E8F2F" stop-opacity=".85"/><stop offset="1" stop-color="#5E8F2F" stop-opacity="0"/></linearGradient>
+<linearGradient id="pl" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#CAFF3C" stop-opacity="0"/><stop offset=".6" stop-color="#CAFF3C"/><stop offset="1" stop-color="#fff"/></linearGradient>
+<mask id="m"><rect width="1000" height="24" fill="url(#ln)"/></mask></defs>
+<style>
+text{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace}
+.pre{white-space:pre}
+.rv{opacity:0}
+@media (prefers-reduced-motion:reduce){
+*{animation:none!important}
+.rv{opacity:1!important}
+.alt{display:none}
+}
+
+.pl{animation:run 5s cubic-bezier(.45,0,.55,1) infinite} @keyframes run{from{transform:translateX(-160px)}to{transform:translateX(1000px)}}
+.dm{transform-box:fill-box;transform-origin:center;animation:spin 8s linear infinite} @keyframes spin{to{transform:rotate(360deg)}}
+.pu{transform-box:fill-box;transform-origin:center;animation:pu 2.4s ease-out infinite} @keyframes pu{0%{transform:scale(1);opacity:.8}100%{transform:scale(3);opacity:0}}
+</style>
+
+<rect y="11" width="1000" height="2" fill="url(#ln)"/>
+<g mask="url(#m)"><rect class="pl" y="10.5" width="160" height="3" rx="1.5" fill="url(#pl)"/></g>
+<rect x="472" y="2" width="56" height="20" fill="#0A0F08" rx="10"/>
+<rect class="dm" x="494" y="6" width="12" height="12" transform="translate(0 0)" fill="#CAFF3C" stroke="#0A0F08" stroke-width="2" rx="2"/>
+<circle class="pu" cx="500" cy="12" r="5" fill="none" stroke="#CAFF3C" stroke-width="1.5"/>
+<circle cx="482" cy="12" r="2" fill="#4A5C44"/><circle cx="518" cy="12" r="2" fill="#4A5C44"/>
+
 </svg>

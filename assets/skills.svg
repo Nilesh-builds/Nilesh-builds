@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="504" viewBox="0 0 1000 504" role="img" aria-labelledby="t d" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace">
+<title id="t">Analytics expertise</title><desc id="d">Data Cleaning &amp; EDA: Advanced (Pandas, missing-value handling, outlier detection, feature engineering); Machine Learning: Intermediate (Logistic Regression, Random Forest, Decision Trees, model selection on business criteria); Data Visualization: Intermediate (Power BI dashboards, Excel reporting, matplotlib / seaborn charting); SQL &amp; Databases: Intermediate (Querying, joins and aggregation for analysis-ready datasets); Statistical Analysis: Intermediate (Hypothesis-driven EDA, risk scoring, business recommendation write-ups); Cloud (AWS): Working Knowledge (Cloud-native architecture from the Codefirst Technology internship)</desc>
+<defs><filter id="bl4" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="4"/></filter><filter id="bl60" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter><filter id="bl2" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="2"/></filter><clipPath id="rc"><rect width="1000" height="504" rx="22"/></clipPath>
+<linearGradient id="scanG" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#CAFF3C" stop-opacity="0"/><stop offset="1" stop-color="#CAFF3C" stop-opacity=".1"/></linearGradient></defs>
+<style>
+text{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace}
+.pre{white-space:pre}
+.rv{opacity:0}
+@media (prefers-reduced-motion:reduce){
+*{animation:none!important}
+.rv{opacity:1!important}
+.alt{display:none}
+}
+.beam{stroke-dasharray:12 88;animation:beam 7s linear infinite}@keyframes beam{to{stroke-dashoffset:-100}}
+.sg{transform-box:fill-box;transform-origin:left;animation:sg 10s cubic-bezier(.2,.8,.2,1) infinite;animation-delay:calc(var(--i) * .07s);animation-fill-mode:backwards}
+@keyframes sg{0%{transform:scaleX(0)}6%,88%{transform:scaleX(1)}96%,100%{transform:scaleX(0)}}
+.scan{animation:scan 6s ease-in-out infinite} @keyframes scan{from{transform:translateY(-60px)}to{transform:translateY(504px)}}
+</style>
+
+<g clip-path="url(#rc)">
+  <rect width="1000" height="504" fill="#0A0F08"/>
+  <rect class="scan" width="1000" height="60" fill="url(#scanG)"/>
+  
+<g>
+  <rect x="24" y="24" width="3" height="64" rx="1.5" fill="#CAFF3C" opacity=".85"/>
+  <text x="44" y="46" font-size="16" font-weight="700" fill="#E8F5E1">Data Cleaning &amp; EDA</text>
+  <text x="44" y="68" font-size="12" fill="#7A8B6F">Pandas, missing-value handling, outlier detection, feature</text><text x="44" y="85" font-size="12" fill="#7A8B6F">engineering</text>
+  <rect x="628" y="36" width="34" height="16" rx="4" fill="#22331E"/><rect class="sg" style="--i:0" x="628" y="36" width="34" height="16" rx="4" fill="#CAFF3C"/><rect x="668" y="36" width="34" height="16" rx="4" fill="#22331E"/><rect class="sg" style="--i:1" x="668" y="36" width="34" height="16" rx="4" fill="#CAFF3C"/><rect x="708" y="36" width="34" height="16" rx="4" fill="#22331E"/><rect class="sg" style="--i:2" x="708" y="36" width="34" height="16" rx="4" fill="#CAFF3C"/><rect x="748" y="36" width="34" height="16" rx="4" fill="#22331E"/><rect class="sg" style="--i:3" x="748" y="36" width="34" height="16" rx="4" fill="#CAFF3C"/><rect x="788" y="36" width="34" height="16" rx="4" fill="#22331E"/><rect class="sg" style="--i:4" x="788" y="36" width="34" height="16" rx="4" fill="#CAFF3C"/>
+  <text x="842" y="49" font-size="12.5" font-weight="700" letter-spacing=".6" fill="#CAFF3C" textLength="60" lengthAdjust="spacingAndGlyphs">Advanced</text>
+  <text x="628" y="74" font-size="11" fill="#4A5C44">5/5</text>
+  <line x1="44" y1="94" x2="976" y2="94" stroke="#22331E" stroke-opacity=".55"/>
+</g>
+<g>
+  <rect x="24" y="102" width="3" height="64" rx="1.5" fill="#4DFFB4" opacity=".85"/>
+  <text x="44" y="124" font-size="16" font-weight="700" fill="#E8F5E1">Machine Learning</text>
+  <text x="44" y="146" font-size="12" fill="#7A8B6F">Logistic Regression, Random Forest, Decision Trees, model</text><text x="44" y="163" font-size="12" fill="#7A8B6F">selection on business criteria</text>
+  <rect x="628" y="114" width="34" height="16" rx="4" fill="#22331E"/><rect class="sg" style="--i:5" x="628" y="114" width="34" height="16" rx="4" fill="#4DFFB4"/><rect x="668" y="114" width="34" height="16" rx="4" fill="#22331E"/><rect class="sg" style="--i:6" x="668" y="114" width="34" height="16" rx="4" fill="#4DFFB4"/><rect x="708" y="114" width="34" height="16" rx="4" fill="#22331E"/><rect class="sg" style="--i:7" x="708" y="114" width="34" height="16" rx="4" fill="#4DFFB4"/><rect x="748" y="114" width="34" height="16" rx="4" fill="#22331E"/><rect class="sg" style="--i:8" x="748" y="114" width="34" height="16" rx="4" fill="#4DFFB4"/><rect x="788" y="114" width="34" height="16" rx="4" fill="#22331E"/>
+  <text x="842" y="127" font-size="12.5" font-weight="700" letter-spacing=".6" fill="#4DFFB4" textLength="90" lengthAdjust="spacingAndGlyphs">Intermediate</text>
+  <text x="628" y="152" font-size="11" fill="#4A5C44">4/5</text>
+  <line x1="44" y1="172" x2="976" y2="172" stroke="#22331E" stroke-opacity=".55"/>
+</g>
+<g>
+  <rect x="24" y="180" width="3" height="64" rx="1.5" fill="#4DFFB4" opacity=".85"/>
+  <text x="44" y="202" font-size="16" font-weight="700" fill="#E8F5E1">Data Visualization</text>
+  <text x="44" y="224" font-size="12" fill="#7A8B6F">Power BI dashboards, Excel reporting, matplotlib / seaborn</text><text x="44" y="241" font-size="12" fill="#7A8B6F">charting</text>
+  <rect x="628" y="192" width="34" height="16" rx="4" fill="#22331E"/><rect class="sg" style="--i:10" x="628" y="192" width="34" height="16" rx="4" fill="#4DFFB4"/><rect x="668" y="192" width="34" height="16" rx="4" fill="#22331E"/><rect class="sg" style="--i:11" x="668" y="192" width="34" height="16" rx="4" fill="#4DFFB4"/><rect x="708" y="192" width="34" height="16" rx="4" fill="#22331E"/><rect class="sg" style="--i:12" x="708" y="192" width="34" height="16" rx="4" fill="#4DFFB4"/><rect x="748" y="192" width="34" height="16" rx="4" fill="#22331E"/><rect class="sg" style="--i:13" x="748" y="192" width="34" height="16" rx="4" fill="#4DFFB4"/><rect x="788" y="192" width="34" height="16" rx="4" fill="#22331E"/>
+  <text x="842" y="205" font-size="12.5" font-weight="700" letter-spacing=".6" fill="#4DFFB4" textLength="90" lengthAdjust="spacingAndGlyphs">Intermediate</text>
+  <text x="628" y="230" font-size="11" fill="#4A5C44">4/5</text>
+  <line x1="44" y1="250" x2="976" y2="250" stroke="#22331E" stroke-opacity=".55"/>
+</g>
+<g>
+  <rect x="24" y="258" width="3" height="64" rx="1.5" fill="#4DFFB4" opacity=".85"/>
+  <text x="44" y="280" font-size="16" font-weight="700" fill="#E8F5E1">SQL &amp; Databases</text>
+  <text x="44" y="302" font-size="12" fill="#7A8B6F">Querying, joins and aggregation for analysis-ready datasets</text>
+  <rect x="628" y="270" width="34" height="16" rx="4" fill="#22331E"/><rect class="sg" style="--i:15" x="628" y="270" width="34" height="16" rx="4" fill="#4DFFB4"/><rect x="668" y="270" width="34" height="16" rx="4" fill="#22331E"/><rect class="sg" style="--i:16" x="668" y="270" width="34" height="16" rx="4" fill="#4DFFB4"/><rect x="708" y="270" width="34" height="16" rx="4" fill="#22331E"/><rect class="sg" style="--i:17" x="708" y="270" width="34" height="16" rx="4" fill="#4DFFB4"/><rect x="748" y="270" width="34" height="16" rx="4" fill="#22331E"/><rect class="sg" style="--i:18" x="748" y="270" width="34" height="16" rx="4" fill="#4DFFB4"/><rect x="788" y="270" width="34" height="16" rx="4" fill="#22331E"/>
+  <text x="842" y="283" font-size="12.5" font-weight="700" letter-spacing=".6" fill="#4DFFB4" textLength="90" lengthAdjust="spacingAndGlyphs">Intermediate</text>
+  <text x="628" y="308" font-size="11" fill="#4A5C44">4/5</text>
+  <line x1="44" y1="328" x2="976" y2="328" stroke="#22331E" stroke-opacity=".55"/>
+</g>
+<g>
+  <rect x="24" y="336" width="3" height="64" rx="1.5" fill="#4DFFB4" opacity=".85"/>
+  <text x="44" y="358" font-size="16" font-weight="700" fill="#E8F5E1">Statistical Analysis</text>
+  <text x="44" y="380" font-size="12" fill="#7A8B6F">Hypothesis-driven EDA, risk scoring, business recommendation</text><text x="44" y="397" font-size="12" fill="#7A8B6F">write-ups</text>
+  <rect x="628" y="348" width="34" height="16" rx="4" fill="#22331E"/><rect class="sg" style="--i:20" x="628" y="348" width="34" height="16" rx="4" fill="#4DFFB4"/><rect x="668" y="348" width="34" height="16" rx="4" fill="#22331E"/><rect class="sg" style="--i:21" x="668" y="348" width="34" height="16" rx="4" fill="#4DFFB4"/><rect x="708" y="348" width="34" height="16" rx="4" fill="#22331E"/><rect class="sg" style="--i:22" x="708" y="348" width="34" height="16" rx="4" fill="#4DFFB4"/><rect x="748" y="348" width="34" height="16" rx="4" fill="#22331E"/><rect class="sg" style="--i:23" x="748" y="348" width="34" height="16" rx="4" fill="#4DFFB4"/><rect x="788" y="348" width="34" height="16" rx="4" fill="#22331E"/>
+  <text x="842" y="361" font-size="12.5" font-weight="700" letter-spacing=".6" fill="#4DFFB4" textLength="90" lengthAdjust="spacingAndGlyphs">Intermediate</text>
+  <text x="628" y="386" font-size="11" fill="#4A5C44">4/5</text>
+  <line x1="44" y1="406" x2="976" y2="406" stroke="#22331E" stroke-opacity=".55"/>
+</g>
+<g>
+  <rect x="24" y="414" width="3" height="64" rx="1.5" fill="#3CE8FF" opacity=".85"/>
+  <text x="44" y="436" font-size="16" font-weight="700" fill="#E8F5E1">Cloud (AWS)</text>
+  <text x="44" y="458" font-size="12" fill="#7A8B6F">Cloud-native architecture from the Codefirst Technology</text><text x="44" y="475" font-size="12" fill="#7A8B6F">internship</text>
+  <rect x="628" y="426" width="34" height="16" rx="4" fill="#22331E"/><rect class="sg" style="--i:25" x="628" y="426" width="34" height="16" rx="4" fill="#3CE8FF"/><rect x="668" y="426" width="34" height="16" rx="4" fill="#22331E"/><rect class="sg" style="--i:26" x="668" y="426" width="34" height="16" rx="4" fill="#3CE8FF"/><rect x="708" y="426" width="34" height="16" rx="4" fill="#22331E"/><rect class="sg" style="--i:27" x="708" y="426" width="34" height="16" rx="4" fill="#3CE8FF"/><rect x="748" y="426" width="34" height="16" rx="4" fill="#22331E"/><rect x="788" y="426" width="34" height="16" rx="4" fill="#22331E"/>
+  <text x="842" y="439" font-size="12.5" font-weight="700" letter-spacing=".6" fill="#3CE8FF" textLength="128" lengthAdjust="spacingAndGlyphs">Working Knowledge</text>
+  <text x="628" y="464" font-size="11" fill="#4A5C44">3/5</text>
+  <line x1="44" y1="484" x2="976" y2="484" stroke="#22331E" stroke-opacity=".55"/>
+</g>
+</g>
+<rect x="1.5" y="1.5" width="997.0" height="501.0" rx="22" pathLength="100" fill="none" stroke="#22331E" stroke-width="1.5"/><rect class="beam" x="1.5" y="1.5" width="997.0" height="501.0" rx="22" pathLength="100" fill="none" stroke="#CAFF3C" stroke-width="5" opacity=".45" filter="url(#bl4)" style="animation-duration:14s;animation-delay:-5s"/><rect class="beam" x="1.5" y="1.5" width="997.0" height="501.0" rx="22" pathLength="100" fill="none" stroke="#CAFF3C" stroke-width="2" stroke-linecap="round" style="animation-duration:14s;animation-delay:-5s"/>
+
+</svg>

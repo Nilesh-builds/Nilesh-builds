@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="304" viewBox="0 0 1000 304" role="img" aria-labelledby="t d" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace">
+<title id="t">Impact at a glance</title><desc id="d">98.85% data quality score on 852 synthetic conversations (TrainLens); κ 0.902 human-vs-human agreement; 11 of 11 LLM judges validated against references; 9 evaluation dimensions.</desc>
+<defs><filter id="bl4" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="4"/></filter><filter id="bl60" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter><filter id="bl2" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="2"/></filter></defs>
+<style>
+text{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace}
+.pre{white-space:pre}
+.rv{opacity:0}
+@media (prefers-reduced-motion:reduce){
+*{animation:none!important}
+.rv{opacity:1!important}
+.alt{display:none}
+}
+
+.gauge{stroke-dasharray:100;animation:gauge 9s cubic-bezier(.3,.7,.2,1) infinite;animation-fill-mode:backwards}
+@keyframes gauge{0%{stroke-dashoffset:100}16%,86%{stroke-dashoffset:var(--o)}96%,100%{stroke-dashoffset:100}}
+.orbit{transform-box:view-box;animation:spin 7s linear infinite} @keyframes spin{to{transform:rotate(360deg)}}
+.seg{animation:seg 9s ease-out infinite;animation-fill-mode:backwards;animation-delay:calc(var(--k) * .12s)}
+@keyframes seg{0%{opacity:.08}5%,86%{opacity:1}96%,100%{opacity:.08}}
+.num{animation:num 9s ease-out infinite;animation-fill-mode:backwards}
+@keyframes num{0%{opacity:0;transform:translateY(8px)}10%,88%{opacity:1;transform:none}96%,100%{opacity:0;transform:none}}
+.float{animation:fl 6s ease-in-out infinite} @keyframes fl{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
+.sw{animation:sw 6s linear infinite;animation-delay:var(--d)} @keyframes sw{from{transform:translateY(-30px)}to{transform:translateY(300px)}}
+</style>
+<g transform="translate(0 7)">
+<g class="float" style="animation-delay:-0.0s">
+  <rect x="0" y="0" width="226" height="298" rx="20" fill="#0A0F08" stroke="#22331E"/>
+  <clipPath id="c0"><rect x="0" y="0" width="226" height="298" rx="20"/></clipPath>
+  <g clip-path="url(#c0)">
+    <ellipse cx="113" cy="128" rx="110" ry="90" fill="#CAFF3C" opacity=".13" filter="url(#bl60)"/>
+    <rect class="sw" style="--d:-0.0s" x="0" width="226" height="30" fill="#CAFF3C" opacity=".05"/>
+  </g>
+  <text x="20" y="30" font-size="11" letter-spacing="2" fill="#CAFF3C">TRAINLENS</text>
+  <circle cx="202" cy="26" r="3.5" fill="#CAFF3C"/>
+  <path d="M113 68a60 60 0 1 1 0 120a60 60 0 1 1 0 -120" fill="none" stroke="#22331E" stroke-width="10"/><path class="gauge" style="--o:1.15;animation-delay:0.00s" d="M113 68a60 60 0 1 1 0 120a60 60 0 1 1 0 -120" pathLength="100" fill="none" stroke="#CAFF3C" stroke-width="10" stroke-linecap="round"/><g class="orbit" style="transform-origin:113px 128px;animation-delay:-0.0s"><circle cx="113" cy="52" r="2.5" fill="#CAFF3C"/></g>
+  <text class="num" x="113" y="138" text-anchor="middle" font-size="22" font-weight="800" fill="#E8F5E1" style="animation-delay:0.00s">98.85%</text>
+  <text x="113" y="212" text-anchor="middle" font-size="15" font-weight="700" fill="#E8F5E1">Data quality score</text>
+  <text x="113" y="236" text-anchor="middle" font-size="11" fill="#7A8B6F">Benchmarked on 852 synthetic</text><text x="113" y="251" text-anchor="middle" font-size="11" fill="#7A8B6F">support conversations</text>
+</g>
+<g class="float" style="animation-delay:-1.5s">
+  <rect x="258" y="0" width="226" height="298" rx="20" fill="#0A0F08" stroke="#22331E"/>
+  <clipPath id="c1"><rect x="258" y="0" width="226" height="298" rx="20"/></clipPath>
+  <g clip-path="url(#c1)">
+    <ellipse cx="371" cy="128" rx="110" ry="90" fill="#3CE8FF" opacity=".13" filter="url(#bl60)"/>
+    <rect class="sw" style="--d:-1.4s" x="258" width="226" height="30" fill="#3CE8FF" opacity=".05"/>
+  </g>
+  <text x="278" y="30" font-size="11" letter-spacing="2" fill="#3CE8FF">LLM-EVAL</text>
+  <circle cx="460" cy="26" r="3.5" fill="#3CE8FF"/>
+  <path d="M371 68a60 60 0 1 1 0 120a60 60 0 1 1 0 -120" fill="none" stroke="#22331E" stroke-width="10"/><path class="gauge" style="--o:9.80;animation-delay:0.15s" d="M371 68a60 60 0 1 1 0 120a60 60 0 1 1 0 -120" pathLength="100" fill="none" stroke="#3CE8FF" stroke-width="10" stroke-linecap="round"/><g class="orbit" style="transform-origin:371px 128px;animation-delay:-1.3s"><circle cx="371" cy="52" r="2.5" fill="#3CE8FF"/></g>
+  <text class="num" x="371" y="138" text-anchor="middle" font-size="22" font-weight="800" fill="#E8F5E1" style="animation-delay:0.15s">κ 0.902</text>
+  <text x="371" y="212" text-anchor="middle" font-size="15" font-weight="700" fill="#E8F5E1">Human agreement</text>
+  <text x="371" y="236" text-anchor="middle" font-size="11" fill="#7A8B6F">Human-vs-human κ on blind</text><text x="371" y="251" text-anchor="middle" font-size="11" fill="#7A8B6F">review of the judge outputs</text>
+</g>
+<g class="float" style="animation-delay:-3.0s">
+  <rect x="516" y="0" width="226" height="298" rx="20" fill="#0A0F08" stroke="#22331E"/>
+  <clipPath id="c2"><rect x="516" y="0" width="226" height="298" rx="20"/></clipPath>
+  <g clip-path="url(#c2)">
+    <ellipse cx="629" cy="128" rx="110" ry="90" fill="#B28CFF" opacity=".13" filter="url(#bl60)"/>
+    <rect class="sw" style="--d:-2.8s" x="516" width="226" height="30" fill="#B28CFF" opacity=".05"/>
+  </g>
+  <text x="536" y="30" font-size="11" letter-spacing="2" fill="#B28CFF">LLM-EVAL</text>
+  <circle cx="718" cy="26" r="3.5" fill="#B28CFF"/>
+  <path d="M629 68a60 60 0 1 1 0 120a60 60 0 1 1 0 -120" fill="none" stroke="#22331E" stroke-width="10"/><path class="gauge" style="--o:0.00;animation-delay:0.30s" d="M629 68a60 60 0 1 1 0 120a60 60 0 1 1 0 -120" pathLength="100" fill="none" stroke="#B28CFF" stroke-width="10" stroke-linecap="round"/><g class="orbit" style="transform-origin:629px 128px;animation-delay:-2.6s"><circle cx="629" cy="52" r="2.5" fill="#B28CFF"/></g>
+  <text class="num" x="629" y="138" text-anchor="middle" font-size="26" font-weight="800" fill="#E8F5E1" style="animation-delay:0.30s">11/11</text>
+  <text x="629" y="212" text-anchor="middle" font-size="15" font-weight="700" fill="#E8F5E1">Judges validated</text>
+  <text x="629" y="236" text-anchor="middle" font-size="11" fill="#7A8B6F">LLM judges checked against</text><text x="629" y="251" text-anchor="middle" font-size="11" fill="#7A8B6F">reference answers</text>
+</g>
+<g class="float" style="animation-delay:-4.5s">
+  <rect x="774" y="0" width="226" height="298" rx="20" fill="#0A0F08" stroke="#22331E"/>
+  <clipPath id="c3"><rect x="774" y="0" width="226" height="298" rx="20"/></clipPath>
+  <g clip-path="url(#c3)">
+    <ellipse cx="887" cy="128" rx="110" ry="90" fill="#FFC84A" opacity=".13" filter="url(#bl60)"/>
+    <rect class="sw" style="--d:-4.199999999999999s" x="774" width="226" height="30" fill="#FFC84A" opacity=".05"/>
+  </g>
+  <text x="794" y="30" font-size="11" letter-spacing="2" fill="#FFC84A">LLM-EVAL</text>
+  <circle cx="976" cy="26" r="3.5" fill="#FFC84A"/>
+  <path class="seg" style="--k:0" d="M891.19 68.15A60 60 0 0 1 922.27 79.46" fill="none" stroke="#FFC84A" stroke-width="10" stroke-linecap="round"/><path class="seg" style="--k:1" d="M928.68 84.84A60 60 0 0 1 945.22 113.48" fill="none" stroke="#FFC84A" stroke-width="10" stroke-linecap="round"/><path class="seg" style="--k:2" d="M946.67 121.73A60 60 0 0 1 940.93 154.3" fill="none" stroke="#FFC84A" stroke-width="10" stroke-linecap="round"/><path class="seg" style="--k:3" d="M936.74 161.55A60 60 0 0 1 911.4 182.81" fill="none" stroke="#FFC84A" stroke-width="10" stroke-linecap="round"/><path class="seg" style="--k:4" d="M903.54 185.68A60 60 0 0 1 870.46 185.68" fill="none" stroke="#FFC84A" stroke-width="10" stroke-linecap="round"/><path class="seg" style="--k:5" d="M862.6 182.81A60 60 0 0 1 837.26 161.55" fill="none" stroke="#FFC84A" stroke-width="10" stroke-linecap="round"/><path class="seg" style="--k:6" d="M833.07 154.3A60 60 0 0 1 827.33 121.73" fill="none" stroke="#FFC84A" stroke-width="10" stroke-linecap="round"/><path class="seg" style="--k:7" d="M828.78 113.48A60 60 0 0 1 845.32 84.84" fill="none" stroke="#FFC84A" stroke-width="10" stroke-linecap="round"/><path class="seg" style="--k:8" d="M851.73 79.46A60 60 0 0 1 882.81 68.15" fill="none" stroke="#FFC84A" stroke-width="10" stroke-linecap="round"/><g class="orbit" style="transform-origin:887px 128px;animation-delay:-3.9000000000000004s"><circle cx="887" cy="52" r="2.5" fill="#FFC84A"/></g>
+  <text class="num" x="887" y="138" text-anchor="middle" font-size="26" font-weight="800" fill="#E8F5E1" style="animation-delay:0.45s">9</text>
+  <text x="887" y="212" text-anchor="middle" font-size="15" font-weight="700" fill="#E8F5E1">Evaluation dimensions</text>
+  <text x="887" y="236" text-anchor="middle" font-size="11" fill="#7A8B6F">Factuality, bias, toxicity,</text><text x="887" y="251" text-anchor="middle" font-size="11" fill="#7A8B6F">refusal, injection,</text><text x="887" y="266" text-anchor="middle" font-size="11" fill="#7A8B6F">hallucination…</text>
+</g></g>
+</svg>
