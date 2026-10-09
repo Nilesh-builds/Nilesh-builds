@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="372" viewBox="0 0 440 372" role="img" aria-labelledby="t d" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace">
+<title id="t">TrainLens — AI training-data quality platform</title><desc id="d">Five quality dimensions, eleven checks, Groq batch labeling with a rule-based fallback, and a confidence-based human review queue. Stats: 98.85% quality score, 852 conversations, 11 checks. Stack: Python, pandas, DuckDB, Streamlit, Plotly, scikit-learn.</desc>
+<defs><filter id="bl4" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="4"/></filter><filter id="bl60" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter><filter id="bl2" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="2"/></filter><clipPath id="rc"><rect width="440" height="372" rx="22"/></clipPath>
+<linearGradient id="tg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#CAFF3C"/><stop offset="1" stop-color="#E8F5E1"/></linearGradient>
+<linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".09"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<pattern id="dg" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".9" fill="#CAFF3C" opacity=".16"/></pattern>
+<linearGradient id="dgF" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff"/><stop offset=".6" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<mask id="dgM"><rect width="440" height="372" fill="url(#dgF)"/></mask></defs>
+<style>
+text{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace}
+.pre{white-space:pre}
+.rv{opacity:0}
+@media (prefers-reduced-motion:reduce){
+*{animation:none!important}
+.rv{opacity:1!important}
+.alt{display:none}
+}
+.beam{stroke-dasharray:12 88;animation:beam 7s linear infinite}@keyframes beam{to{stroke-dashoffset:-100}}
+.orb{animation:orb 11s ease-in-out infinite alternate} @keyframes orb{from{transform:translate(0,0)}to{transform:translate(-60px,50px) scale(1.2)}}
+.shine{animation:shine 8s ease-in-out infinite;animation-delay:0.0s}
+@keyframes shine{0%,60%{transform:translateX(-160px) skewX(-18deg)}100%{transform:translateX(600px) skewX(-18deg)}}
+.pulse{transform-box:fill-box;transform-origin:center;animation:ping 2.2s ease-out infinite}
+@keyframes ping{0%{transform:scale(1);opacity:.9}100%{transform:scale(3);opacity:0}}
+.ul{transform-box:fill-box;transform-origin:left;animation:ul 8s cubic-bezier(.2,.8,.2,1) infinite;animation-delay:0.0s}
+@keyframes ul{0%{transform:scaleX(0)}12%,90%{transform:scaleX(1)}100%{transform:scaleX(0)}}
+</style>
+
+<g clip-path="url(#rc)">
+  <rect width="440" height="372" fill="#0A0F08"/>
+  <rect width="440" height="372" fill="url(#dg)" mask="url(#dgM)"/>
+  <ellipse class="orb" cx="410" cy="20" rx="180" ry="120" fill="#CAFF3C" opacity=".2" filter="url(#bl60)"/>
+  <rect class="shine" x="0" y="0" width="120" height="372" fill="url(#sh)"/>
+  <text x="24" y="38" font-size="11" letter-spacing="2.4" fill="#7A8B6F">PROJECT 01</text>
+  <g>
+    <rect x="299.8" y="20" width="116.2" height="26" rx="13" fill="#CAFF3C" fill-opacity=".1" stroke="#CAFF3C" stroke-opacity=".5"/>
+    <circle class="pulse" cx="315.8" cy="33" r="3.2" fill="#CAFF3C"/><circle cx="315.8" cy="33" r="3.2" fill="#CAFF3C"/>
+    <text x="327.8" y="37.5" font-size="11" font-weight="700" letter-spacing="1.2" fill="#CAFF3C">LIVE DEMO</text>
+  </g>
+  <text x="24" y="82" font-size="26" font-weight="800" fill="url(#tg)">TrainLens</text>
+  <rect class="ul" x="24" y="92" width="56" height="3" rx="1.5" fill="#CAFF3C"/>
+  <text x="24" y="116" font-size="13" fill="#CAFF3C" fill-opacity=".85">AI training-data quality platform</text>
+  <text x="24" y="144" font-size="12.5" fill="#E8F5E1" fill-opacity=".86">Five quality dimensions, eleven checks, Groq batch</text><text x="24" y="163" font-size="12.5" fill="#E8F5E1" fill-opacity=".86">labeling with a rule-based fallback, and a</text><text x="24" y="182" font-size="12.5" fill="#E8F5E1" fill-opacity=".86">confidence-based human review queue.</text>
+  <line x1="24" y1="216" x2="416" y2="216" stroke="#22331E"/>
+  <text x="24" y="252" font-size="20" font-weight="800" fill="#CAFF3C">98.85%</text><text x="24" y="270" font-size="11" fill="#7A8B6F">quality score</text><line x1="144.67" y1="228" x2="144.67" y2="272" stroke="#22331E"/><text x="154.67" y="252" font-size="24" font-weight="800" fill="#CAFF3C">852</text><text x="154.67" y="270" font-size="11" fill="#7A8B6F">conversations</text><line x1="275.33" y1="228" x2="275.33" y2="272" stroke="#22331E"/><text x="285.33" y="252" font-size="24" font-weight="800" fill="#CAFF3C">11</text><text x="285.33" y="270" font-size="11" fill="#7A8B6F">checks</text>
+  <line x1="24" y1="284" x2="416" y2="284" stroke="#22331E" stroke-dasharray="2 5"/>
+  <rect x="24" y="300" width="69.4" height="26" rx="13.0" fill="#CAFF3C" fill-opacity=".08" stroke="#CAFF3C" stroke-opacity=".3"/><text x="38" y="317.0" font-size="11.5" fill="#E8F5E1" textLength="41.4" lengthAdjust="spacingAndGlyphs">Python</text><rect x="101.4" y="300" width="69.4" height="26" rx="13.0" fill="#CAFF3C" fill-opacity=".08" stroke="#CAFF3C" stroke-opacity=".3"/><text x="115.4" y="317.0" font-size="11.5" fill="#E8F5E1" textLength="41.4" lengthAdjust="spacingAndGlyphs">pandas</text><rect x="178.8" y="300" width="69.4" height="26" rx="13.0" fill="#CAFF3C" fill-opacity=".08" stroke="#CAFF3C" stroke-opacity=".3"/><text x="192.8" y="317.0" font-size="11.5" fill="#E8F5E1" textLength="41.4" lengthAdjust="spacingAndGlyphs">DuckDB</text><rect x="256.2" y="300" width="90.1" height="26" rx="13.0" fill="#CAFF3C" fill-opacity=".08" stroke="#CAFF3C" stroke-opacity=".3"/><text x="270.2" y="317.0" font-size="11.5" fill="#E8F5E1" textLength="62.1" lengthAdjust="spacingAndGlyphs">Streamlit</text><rect x="24" y="334" width="69.4" height="26" rx="13.0" fill="#CAFF3C" fill-opacity=".08" stroke="#CAFF3C" stroke-opacity=".3"/><text x="38" y="351.0" font-size="11.5" fill="#E8F5E1" textLength="41.4" lengthAdjust="spacingAndGlyphs">Plotly</text><rect x="101.4" y="334" width="110.8" height="26" rx="13.0" fill="#CAFF3C" fill-opacity=".08" stroke="#CAFF3C" stroke-opacity=".3"/><text x="115.4" y="351.0" font-size="11.5" fill="#E8F5E1" textLength="82.8" lengthAdjust="spacingAndGlyphs">scikit-learn</text>
+</g>
+<rect x="1.5" y="1.5" width="437.0" height="369.0" rx="22" pathLength="100" fill="none" stroke="#22331E" stroke-width="1.5"/><rect class="beam" x="1.5" y="1.5" width="437.0" height="369.0" rx="22" pathLength="100" fill="none" stroke="#CAFF3C" stroke-width="5" opacity=".45" filter="url(#bl4)" style="animation-duration:9s;animation-delay:0.0s"/><rect class="beam" x="1.5" y="1.5" width="437.0" height="369.0" rx="22" pathLength="100" fill="none" stroke="#CAFF3C" stroke-width="2" stroke-linecap="round" style="animation-duration:9s;animation-delay:0.0s"/>
+
+</svg>

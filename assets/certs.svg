@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-labelledby="t d" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace">
+<title id="t">Certifications</title><desc id="d">Certifications: Power BI for Data Analysts; SQL for Data Analysis; Python for Data Analysis; Machine Learning with Python; Deep Learning: Image Recognition; R for Data Science; Excel + ChatGPT Power Tips; Intro to Data Science; Advanced Algorithmic Thinking.</desc>
+<defs></defs>
+<style>
+text{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace}
+.pre{white-space:pre}
+.rv{opacity:0}
+@media (prefers-reduced-motion:reduce){
+*{animation:none!important}
+.rv{opacity:1!important}
+.alt{display:none}
+}
+</style>
+
+<g class="ch" style="--d:-0.0s">
+  <clipPath id="k0"><rect x="0" y="4" width="316" height="70" rx="16"/></clipPath>
+  <rect x="0" y="4" width="316" height="70" rx="16" fill="#0A0F08" stroke="#22331E"/>
+  <rect x="0" y="18" width="3" height="42" rx="1.5" fill="#FFC84A"/>
+  <g clip-path="url(#k0)"><rect class="sheen" style="--d:0.0s" x="0" y="4" width="60" height="70" fill="#fff" opacity=".06"/></g>
+  <circle cx="34" cy="39.0" r="14" fill="#FFC84A" fill-opacity=".12" stroke="#FFC84A" stroke-opacity=".6"/>
+  <path class="chk" style="--d:0.00s" d="M27 39.5l5 5l9 -10" fill="none" stroke="#FFC84A" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="62" y="35" font-size="12.5" font-weight="700" fill="#E8F5E1" textLength="195" lengthAdjust="spacingAndGlyphs">Power BI for Data Analysts</text>
+  <text x="62" y="56" font-size="10.5" letter-spacing="1.6" fill="#FFC84A" fill-opacity=".85">MICROSOFT PRESS</text>
+</g>
+<g class="ch" style="--d:-0.7s">
+  <clipPath id="k1"><rect x="342" y="4" width="316" height="70" rx="16"/></clipPath>
+  <rect x="342" y="4" width="316" height="70" rx="16" fill="#0A0F08" stroke="#22331E"/>
+  <rect x="342" y="18" width="3" height="42" rx="1.5" fill="#3CE8FF"/>
+  <g clip-path="url(#k1)"><rect class="sheen" style="--d:0.6s" x="342" y="4" width="60" height="70" fill="#fff" opacity=".06"/></g>
+  <circle cx="376" cy="39.0" r="14" fill="#3CE8FF" fill-opacity=".12" stroke="#3CE8FF" stroke-opacity=".6"/>
+  <path class="chk" style="--d:0.25s" d="M369 39.5l5 5l9 -10" fill="none" stroke="#3CE8FF" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="404" y="35" font-size="12.5" font-weight="700" fill="#E8F5E1" textLength="157.5" lengthAdjust="spacingAndGlyphs">SQL for Data Analysis</text>
+  <text x="404" y="56" font-size="10.5" letter-spacing="1.6" fill="#3CE8FF" fill-opacity=".85">SQL</text>
+</g>
+<g class="ch" style="--d:-1.4s">
+  <clipPath id="k2"><rect x="684" y="4" width="316" height="70" rx="16"/></clipPath>
+  <rect x="684" y="4" width="316" height="70" rx="16" fill="#0A0F08" stroke="#22331E"/>
+  <rect x="684" y="18" width="3" height="42" rx="1.5" fill="#CAFF3C"/>
+  <g clip-path="url(#k2)"><rect class="sheen" style="--d:1.2s" x="684" y="4" width="60" height="70" fill="#fff" opacity=".06"/></g>
+  <circle cx="718" cy="39.0" r="14" fill="#CAFF3C" fill-opacity=".12" stroke="#CAFF3C" stroke-opacity=".6"/>
+  <path class="chk" style="--d:0.50s" d="M711 39.5l5 5l9 -10" fill="none" stroke="#CAFF3C" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="746" y="35" font-size="12.5" font-weight="700" fill="#E8F5E1" textLength="180" lengthAdjust="spacingAndGlyphs">Python for Data Analysis</text>
+  <text x="746" y="56" font-size="10.5" letter-spacing="1.6" fill="#CAFF3C" fill-opacity=".85">PYTHON</text>
+</g>
+<g class="ch" style="--d:-2.1s">
+  <clipPath id="k3"><rect x="0" y="90" width="316" height="70" rx="16"/></clipPath>
+  <rect x="0" y="90" width="316" height="70" rx="16" fill="#0A0F08" stroke="#22331E"/>
+  <rect x="0" y="104" width="3" height="42" rx="1.5" fill="#4DFFB4"/>
+  <g clip-path="url(#k3)"><rect class="sheen" style="--d:1.8s" x="0" y="90" width="60" height="70" fill="#fff" opacity=".06"/></g>
+  <circle cx="34" cy="125.0" r="14" fill="#4DFFB4" fill-opacity=".12" stroke="#4DFFB4" stroke-opacity=".6"/>
+  <path class="chk" style="--d:0.75s" d="M27 125.5l5 5l9 -10" fill="none" stroke="#4DFFB4" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="62" y="121" font-size="12.5" font-weight="700" fill="#E8F5E1" textLength="210" lengthAdjust="spacingAndGlyphs">Machine Learning with Python</text>
+  <text x="62" y="142" font-size="10.5" letter-spacing="1.6" fill="#4DFFB4" fill-opacity=".85">MACHINE LEARNING</text>
+</g>
+<g class="ch" style="--d:-2.8s">
+  <clipPath id="k4"><rect x="342" y="90" width="316" height="70" rx="16"/></clipPath>
+  <rect x="342" y="90" width="316" height="70" rx="16" fill="#0A0F08" stroke="#22331E"/>
+  <rect x="342" y="104" width="3" height="42" rx="1.5" fill="#B28CFF"/>
+  <g clip-path="url(#k4)"><rect class="sheen" style="--d:2.4s" x="342" y="90" width="60" height="70" fill="#fff" opacity=".06"/></g>
+  <circle cx="376" cy="125.0" r="14" fill="#B28CFF" fill-opacity=".12" stroke="#B28CFF" stroke-opacity=".6"/>
+  <path class="chk" style="--d:1.00s" d="M369 125.5l5 5l9 -10" fill="none" stroke="#B28CFF" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="404" y="121" font-size="12.5" font-weight="700" fill="#E8F5E1" textLength="240" lengthAdjust="spacingAndGlyphs">Deep Learning: Image Recognition</text>
+  <text x="404" y="142" font-size="10.5" letter-spacing="1.6" fill="#B28CFF" fill-opacity=".85">DEEP LEARNING</text>
+</g>
+<g class="ch" style="--d:-3.5s">
+  <clipPath id="k5"><rect x="684" y="90" width="316" height="70" rx="16"/></clipPath>
+  <rect x="684" y="90" width="316" height="70" rx="16" fill="#0A0F08" stroke="#22331E"/>
+  <rect x="684" y="104" width="3" height="42" rx="1.5" fill="#3CE8FF"/>
+  <g clip-path="url(#k5)"><rect class="sheen" style="--d:3.0s" x="684" y="90" width="60" height="70" fill="#fff" opacity=".06"/></g>
+  <circle cx="718" cy="125.0" r="14" fill="#3CE8FF" fill-opacity=".12" stroke="#3CE8FF" stroke-opacity=".6"/>
+  <path class="chk" style="--d:1.25s" d="M711 125.5l5 5l9 -10" fill="none" stroke="#3CE8FF" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="746" y="121" font-size="12.5" font-weight="700" fill="#E8F5E1" textLength="135" lengthAdjust="spacingAndGlyphs">R for Data Science</text>
+  <text x="746" y="142" font-size="10.5" letter-spacing="1.6" fill="#3CE8FF" fill-opacity=".85">R</text>
+</g>
+<g class="ch" style="--d:-4.2s">
+  <clipPath id="k6"><rect x="0" y="176" width="316" height="70" rx="16"/></clipPath>
+  <rect x="0" y="176" width="316" height="70" rx="16" fill="#0A0F08" stroke="#22331E"/>
+  <rect x="0" y="190" width="3" height="42" rx="1.5" fill="#FFC84A"/>
+  <g clip-path="url(#k6)"><rect class="sheen" style="--d:3.6s" x="0" y="176" width="60" height="70" fill="#fff" opacity=".06"/></g>
+  <circle cx="34" cy="211.0" r="14" fill="#FFC84A" fill-opacity=".12" stroke="#FFC84A" stroke-opacity=".6"/>
+  <path class="chk" style="--d:1.50s" d="M27 211.5l5 5l9 -10" fill="none" stroke="#FFC84A" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="62" y="207" font-size="12.5" font-weight="700" fill="#E8F5E1" textLength="195" lengthAdjust="spacingAndGlyphs">Excel + ChatGPT Power Tips</text>
+  <text x="62" y="228" font-size="10.5" letter-spacing="1.6" fill="#FFC84A" fill-opacity=".85">EXCEL · AI</text>
+</g>
+<g class="ch" style="--d:-4.9s">
+  <clipPath id="k7"><rect x="342" y="176" width="316" height="70" rx="16"/></clipPath>
+  <rect x="342" y="176" width="316" height="70" rx="16" fill="#0A0F08" stroke="#22331E"/>
+  <rect x="342" y="190" width="3" height="42" rx="1.5" fill="#CAFF3C"/>
+  <g clip-path="url(#k7)"><rect class="sheen" style="--d:4.2s" x="342" y="176" width="60" height="70" fill="#fff" opacity=".06"/></g>
+  <circle cx="376" cy="211.0" r="14" fill="#CAFF3C" fill-opacity=".12" stroke="#CAFF3C" stroke-opacity=".6"/>
+  <path class="chk" style="--d:1.75s" d="M369 211.5l5 5l9 -10" fill="none" stroke="#CAFF3C" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="404" y="207" font-size="12.5" font-weight="700" fill="#E8F5E1" textLength="157.5" lengthAdjust="spacingAndGlyphs">Intro to Data Science</text>
+  <text x="404" y="228" font-size="10.5" letter-spacing="1.6" fill="#CAFF3C" fill-opacity=".85">FOUNDATIONS</text>
+</g>
+<g class="ch" style="--d:-5.6s">
+  <clipPath id="k8"><rect x="684" y="176" width="316" height="70" rx="16"/></clipPath>
+  <rect x="684" y="176" width="316" height="70" rx="16" fill="#0A0F08" stroke="#22331E"/>
+  <rect x="684" y="190" width="3" height="42" rx="1.5" fill="#4DFFB4"/>
+  <g clip-path="url(#k8)"><rect class="sheen" style="--d:4.8s" x="684" y="176" width="60" height="70" fill="#fff" opacity=".06"/></g>
+  <circle cx="718" cy="211.0" r="14" fill="#4DFFB4" fill-opacity=".12" stroke="#4DFFB4" stroke-opacity=".6"/>
+  <path class="chk" style="--d:2.00s" d="M711 211.5l5 5l9 -10" fill="none" stroke="#4DFFB4" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="746" y="207" font-size="12.5" font-weight="700" fill="#E8F5E1" textLength="217.5" lengthAdjust="spacingAndGlyphs">Advanced Algorithmic Thinking</text>
+  <text x="746" y="228" font-size="10.5" letter-spacing="1.6" fill="#4DFFB4" fill-opacity=".85">ALGORITHMS</text>
+</g>
+</svg>

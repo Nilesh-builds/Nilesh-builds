@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="60" viewBox="0 0 1000 60" role="img" aria-labelledby="t d" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace">
+<title id="t">Experience and education</title><desc id="d">Section header: $ git log --oneline /experience /education</desc>
+<defs><filter id="bl4" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="4"/></filter><filter id="bl60" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter><filter id="bl2" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="2"/></filter><clipPath id="rc"><rect width="1000" height="60" rx="14"/></clipPath><linearGradient id="sparkG" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#CAFF3C" stop-opacity="0"/><stop offset=".7" stop-color="#CAFF3C"/><stop offset="1" stop-color="#F4FFD0"/></linearGradient>
+<linearGradient id="hdrBg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0A0F08"/><stop offset="1" stop-color="#050A07"/></linearGradient></defs>
+<style>
+text{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace}
+.pre{white-space:pre}
+.rv{opacity:0}
+@media (prefers-reduced-motion:reduce){
+*{animation:none!important}
+.rv{opacity:1!important}
+.alt{display:none}
+}
+
+.spark{animation:spark 4.2s cubic-bezier(.5,0,.5,1) infinite}
+@keyframes spark{from{transform:translateX(-200px)}to{transform:translateX(1060px)}}
+.idx{animation:idx 3s ease-in-out infinite} @keyframes idx{0%,100%{opacity:.5}50%{opacity:1}}
+.dotp{animation:dotp 1.6s ease-in-out infinite} @keyframes dotp{0%,100%{opacity:.25}50%{opacity:1}}
+@keyframes tw0{0%,3.000%{clip-path:inset(0 100% 0 0);animation-timing-function:steps(40,end)}25.000%,98.000%{clip-path:inset(0 0 0 0)}98.010%,100%{clip-path:inset(0 100% 0 0)}}@keyframes tc0{0%{opacity:0}2.990%{opacity:0}3.000%{opacity:1;transform:translateX(0);animation-timing-function:steps(40,end)}25.000%,98.000%{opacity:1;transform:translateX(432.0px)}98.010%,100%{opacity:0;transform:translateX(432.0px)}}.tw0{animation:tw0 10.0s linear infinite}.tc0{opacity:0;animation:tc0 10.0s linear infinite}
+</style>
+
+<g clip-path="url(#rc)">
+  <rect width="1000" height="60" fill="url(#hdrBg)"/>
+  <rect class="idx" x="14" y="12" width="36" height="36" rx="10" fill="#CAFF3C" fill-opacity=".1" stroke="#CAFF3C" stroke-opacity=".6"/>
+  <text x="32" y="36" text-anchor="middle" font-size="16" font-weight="800" fill="#CAFF3C">04</text>
+  <text x="66" y="37" font-size="18" font-weight="700" fill="#CAFF3C">❯</text>
+  <text x="88" y="37" font-size="18" fill="#7A8B6F">$</text>
+  <text class="tw0 pre" x="108" y="37" font-size="18" fill="#E8F5E1" textLength="432.0" lengthAdjust="spacing">git log --oneline /experience /education</text><rect class="tc0" x="108" y="22.6" width="9.7" height="18.9" fill="#CAFF3C"/>
+  <circle class="dotp" cx="866.8" cy="30" r="2.2" fill="#CAFF3C" style="animation-delay:0.0s"/><circle class="dotp" cx="876.8" cy="30" r="2.2" fill="#CAFF3C" style="animation-delay:0.25s"/><circle class="dotp" cx="886.8" cy="30" r="2.2" fill="#CAFF3C" style="animation-delay:0.5s"/>
+  <rect x="882.8" y="18" width="93.2" height="24" rx="12" fill="none" stroke="#22331E"/>
+  <text x="929.4" y="34.5" text-anchor="middle" font-size="12" letter-spacing=".6" fill="#7A8B6F">timeline</text>
+  <rect class="spark" y="57.5" width="200" height="2.5" fill="url(#sparkG)"/>
+</g>
+<rect x=".75" y=".75" width="998.5" height="58.5" rx="14" fill="none" stroke="#22331E" stroke-width="1.5"/>
+
+</svg>

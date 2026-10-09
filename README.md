@@ -1,32 +1,17 @@
-<img src="assets/hero-terminal.svg" width="100%" alt="Nilesh Singh — data analyst x AI evaluation" />
-
 <div align="center">
 
-<img width="280" src="assets/portrait_terminal.png" alt="Terminal-style dot-matrix portrait of Nilesh" />
+<img src="assets/hero.svg" width="100%" alt="Nilesh Singh — Data Analyst × AI Evaluation. Open to roles, Pune, India. Data quality, LLM evaluation, dashboards that decide." />
 
 <br/>
 
-<img src="https://img.shields.io/badge/🎓_BCA%20Data%20Science-Sri%20Balaji%20University-1A2B1A?style=flat-square&labelColor=060D08&color=132016" alt="degree" />
-&nbsp;
-<img src="https://img.shields.io/badge/📍_Pune-India-1A2B1A?style=flat-square&labelColor=060D08&color=132016" alt="location" />
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20to-Data%20Analyst%20Roles-CAFF3C?style=flat-square&labelColor=060D08" alt="open-to" />
+<a href="https://www.linkedin.com/in/nilesh-singh-b9b6932bb"><img src="assets/btn-linkedin.svg" height="48" alt="LinkedIn" /></a>
+<a href="mailto:kumarnilash509@gmail.com"><img src="assets/btn-email.svg" height="48" alt="Email" /></a>
+<a href="https://github.com/Nilesh-builds"><img src="assets/btn-github.svg" height="48" alt="GitHub" /></a>
+<a href="https://nilesh-builds.github.io/"><img src="assets/btn-portfolio.svg" height="48" alt="Portfolio" /></a>
 
 <br/><br/>
 
-<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=CAFF3C&background=060D0800&center=true&vCenter=true&width=620&lines=Data+Quality+%7C+LLM+Evaluation+%7C+Dashboards;Tested+pipelines%2C+not+notebook+demos;Evidence+first%2C+hype+never"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=CAFF3C&background=060D0800&center=true&vCenter=true&width=620&lines=Data+Quality+%7C+LLM+Evaluation+%7C+Dashboards;Tested+pipelines%2C+not+notebook+demos;Evidence+first%2C+hype+never" alt="typing: data quality, LLM evaluation, dashboards" /></a>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/nilesh-singh-b9b6932bb"><img src="https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=060D08&labelColor=060D08" alt="linkedin" /></a>
-&nbsp;&nbsp;
-<a href="mailto:kumarnilash509@gmail.com"><img src="https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=060D08&labelColor=060D08" alt="email" /></a>
-&nbsp;&nbsp;
-<a href="https://github.com/Nilesh-builds"><img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=060D08&labelColor=060D08" alt="github" /></a>
-&nbsp;&nbsp;
-<a href="https://nilesh-builds.github.io/"><img src="https://img.shields.io/badge/Portfolio-CAFF3C?style=for-the-badge&logo=googlechrome&logoColor=060D08&labelColor=060D08" alt="portfolio" /></a>
-&nbsp;&nbsp;
-<a href="https://github.com/Nilesh-builds?tab=stars"><img src="https://img.shields.io/github/stars/Nilesh-builds?style=for-the-badge&color=CAFF3C&labelColor=060D08&logo=github&logoColor=CAFF3C&label=Stars" alt="stars" /></a>
+<img src="assets/profile-card.svg" width="100%" alt="Profile card. Role: Data Analyst | AI Evaluation. Studying BCA Data Science at Sri Balaji University, Pune. Tools: Python, SQL, Power BI, Excel, R. Internship: Cloud Application Developer at Codefirst Technology. Open to Data Analyst, AI Trainer and AI Evaluation roles." />
 
 </div>
 
@@ -41,24 +26,28 @@ what the evidence can and cannot prove.
 Alongside coursework, I interned as a Cloud Application Developer at
 Codefirst Technology. My work lives after the model: data quality,
 evaluation, business trade-offs, and human review.
-
-$ cat .profile
-
-ROLE        =  Data Analyst  |  AI Evaluation
-STATUS      =  BCA (Data Science) Student — Sri Balaji University
-DOMAIN      =  Analytics  |  Data Quality  |  AI Evaluation
-TOOLS       =  Python  |  SQL  |  Power BI  |  Excel  |  R
-INTERNSHIP  =  Cloud Application Developer — Codefirst Technology
-PORTFOLIO   =  TrainLens  |  Customer Churn Analysis  |  LLM Safety Eval Benchmark
-LOCATION    =  Pune, India
-OPEN_TO     =  Data Analyst  |  AI Trainer  |  AI Evaluation Roles
 ```
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## `> ls /projects --sort=impact`
+<img src="assets/metrics.svg" width="100%" alt="Impact at a glance: 98.85% data quality score on 852 synthetic conversations; κ 0.902 human-vs-human agreement; 11 of 11 LLM judges validated against references; 9 evaluation dimensions." />
 
-### &#9654; TrainLens — AI Training Data Quality Platform
+<br/>
+
+<img src="assets/h-projects.svg" width="100%" alt="Projects, sorted by impact" />
+
+<p align="center">
+<a href="https://trainlens-gv48ihtbq6nbapgfrlworc.streamlit.app/"><img src="assets/project-trainlens.svg" width="49%" alt="TrainLens — AI training-data quality platform. Live demo." /></a>
+<a href="https://llm-safety-eval-benchmark-vrjugdrizxtaqt38s6mgep.streamlit.app/"><img src="assets/project-llm-eval.svg" width="49%" alt="LLM Safety & Response Evaluation Benchmark — 9-dimension scoring. Live demo." /></a>
+<br/>
+<a href="https://nilesh-customer-churn.streamlit.app/"><img src="assets/project-churn.svg" width="49%" alt="Customer Churn Analysis — Telco decision-support dashboard. Live demo." /></a>
+<a href="https://github.com/Nilesh-builds/ai-hr-automation-suite"><img src="assets/project-hr-suite.svg" width="49%" alt="AI HR Automation Suite — 6 n8n workflows. Repository." /></a>
+</p>
+
+<details>
+<summary><b>TrainLens</b> — dashboard preview, write-up, links</summary>
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/Nilesh-builds/trainlens/main/assets/dashboard.png" width="100%" alt="TrainLens dashboard" />
 
@@ -67,7 +56,12 @@ Customer-support data quality and evaluation platform: five quality dimensions, 
 **Stack:** Python · pandas · DuckDB · Streamlit · Plotly · scikit-learn
 **Live demo:** [TrainLens Dashboard](https://trainlens-gv48ihtbq6nbapgfrlworc.streamlit.app/) · **Repo:** [`Nilesh-builds/trainlens`](https://github.com/Nilesh-builds/trainlens)
 
-### &#9654; LLM Safety & Response Evaluation Benchmark
+</details>
+
+<details>
+<summary><b>LLM Safety & Response Evaluation Benchmark</b> — dashboard preview, write-up, links</summary>
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/Nilesh-builds/llm-safety-eval-benchmark/main/docs/screenshots/dashboard.png" width="100%" alt="LLM evaluation evidence dashboard" />
 
@@ -76,7 +70,12 @@ A controlled benchmark scoring AI responses across 9 dimensions — instruction 
 **Stack:** Python · Groq free-tier APIs · pandas · matplotlib · Streamlit · Jupyter
 **Live demo:** [LLM Evaluation Evidence Dashboard](https://llm-safety-eval-benchmark-vrjugdrizxtaqt38s6mgep.streamlit.app/) · **Repo:** [`Nilesh-builds/llm-safety-eval-benchmark`](https://github.com/Nilesh-builds/llm-safety-eval-benchmark)
 
-### &#9654; Customer Churn Analysis — Telco Dataset
+</details>
+
+<details>
+<summary><b>Customer Churn Analysis — Telco Dataset</b> — dashboard preview, write-up, links</summary>
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/Nilesh-builds/customer-churn-analysis/main/assets/dashboard.png" width="100%" alt="Customer churn decision support dashboard" />
 
@@ -85,112 +84,65 @@ Production-style churn analysis: data-quality checks, SQL views, leakage-safe mo
 **Stack:** Python · SQL · Pandas · scikit-learn · Streamlit
 **Live demo:** [Customer Churn Decision Support](https://nilesh-customer-churn.streamlit.app/) · **Repo:** [`Nilesh-builds/customer-churn-analysis`](https://github.com/Nilesh-builds/customer-churn-analysis)
 
-### &#9654; AI HR Automation Suite — 6 n8n Workflows
+</details>
+
+<details>
+<summary><b>AI HR Automation Suite — 6 n8n Workflows</b> — write-up, links</summary>
+
+<br/>
 
 Six automation workflows streamlining HR end-to-end: employee onboarding, leave management, sentiment & feedback analysis, policy Q&A bot, AI resume screener & ranker, and a WhatsApp HR chatbot — Google Sheets as the shared data store, GPT-4 as the AI layer, Gmail/Slack/WhatsApp for alerts.
 
 **Stack:** n8n · Google Sheets · OpenAI GPT-4 · Gmail/Slack/WhatsApp
 **Repo:** [`Nilesh-builds/ai-hr-automation-suite`](https://github.com/Nilesh-builds/ai-hr-automation-suite)
 
+</details>
+
 <img src="assets/divider.svg" width="100%" alt="" />
 
-```bash
-$ ls /tech-stack --grouped
+<img src="assets/h-stack.svg" width="100%" alt="Tech stack" />
 
-languages/   python  r  html  css  bash
-data/        postgres  mysql
-cloud/       aws  git  github  vscode
-```
-
-<div align="center">
-
-<img title="Python" src="https://skillicons.dev/icons?i=python&theme=dark" alt="python" />
-<img title="R" src="https://skillicons.dev/icons?i=r&theme=dark" alt="r" />
-<img title="HTML" src="https://skillicons.dev/icons?i=html&theme=dark" alt="html" />
-<img title="CSS" src="https://skillicons.dev/icons?i=css&theme=dark" alt="css" />
-<img title="Bash" src="https://skillicons.dev/icons?i=bash&theme=dark" alt="bash" />
-<img title="PostgreSQL" src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="postgres" />
-<img title="MySQL" src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="mysql" />
-<img title="AWS" src="https://skillicons.dev/icons?i=aws&theme=dark" alt="aws" />
-<img title="Git" src="https://skillicons.dev/icons?i=git&theme=dark" alt="git" />
-<img title="GitHub" src="https://skillicons.dev/icons?i=github&theme=dark" alt="github" />
-<img title="VS Code" src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="vscode" />
+<img src="assets/stack.svg" width="100%" alt="Tech stack: Python, SQL, R, Bash, HTML, CSS, PostgreSQL, MySQL, DuckDB, AWS, Git, GitHub, VS Code, pandas, scikit-learn, matplotlib, seaborn, Plotly, Streamlit, Power BI, Excel, PySpark, Jupyter, n8n, Groq API, OpenAI GPT-4." />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Power%20BI-CAFF3C?style=flat-square&logo=powerbi&logoColor=000000&labelColor=060D08" alt="powerbi" />
-<img src="https://img.shields.io/badge/Excel-CAFF3C?style=flat-square&logo=microsoftexcel&logoColor=000000&labelColor=060D08" alt="excel" />
-<img src="https://img.shields.io/badge/SQL-CAFF3C?style=flat-square&logo=postgresql&logoColor=000000&labelColor=060D08" alt="sql" />
-<img src="https://img.shields.io/badge/Streamlit-CAFF3C?style=flat-square&logo=streamlit&logoColor=000000&labelColor=060D08" alt="streamlit" />
-<img src="https://img.shields.io/badge/scikit--learn-CAFF3C?style=flat-square&logo=scikitlearn&logoColor=000000&labelColor=060D08" alt="sklearn" />
-<img src="https://img.shields.io/badge/PySpark-CAFF3C?style=flat-square&logo=apachespark&logoColor=000000&labelColor=060D08" alt="pyspark" />
+<img src="assets/h-expertise.svg" width="100%" alt="Analytics expertise" />
 
-</div>
-
-## `> cat analytics-expertise.json`
-
-| Domain | Proficiency | Details |
-| :-- | :-- | :-- |
-| **Data Cleaning & EDA** | `█████ Advanced` | Pandas, missing-value handling, outlier detection, feature engineering |
-| **Machine Learning** | `████░ Intermediate` | Logistic Regression, Random Forest, Decision Trees, model selection on business criteria |
-| **Data Visualization** | `████░ Intermediate` | Power BI dashboards, Excel reporting, matplotlib/seaborn charting |
-| **SQL & Databases** | `████░ Intermediate` | Querying, joins, aggregation for analysis-ready datasets |
-| **Statistical Analysis** | `████░ Intermediate` | Hypothesis-driven EDA, risk scoring, business recommendation write-ups |
-| **Cloud (AWS)** | `███░░ Working Knowledge` | Cloud-native architecture from Codefirst Technology internship |
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## `> cat experience.log`
-
-**Cloud Application Developer (Intern)** — **Codefirst Technology**
-
-Hands-on experience building cloud-native applications, applying AWS fundamentals alongside coursework in data science.
-
-`AWS` `Cloud-Native Architecture` `Application Development`
-
-## `> git log --oneline /education`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/BCA%20—%20Data%20Science-Sri%20Balaji%20University-CAFF3C?style=for-the-badge&logo=academia&logoColor=000000&labelColor=060D08" alt="education" />
-
-</div>
-
-## `> cat certifications.sh`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Power%20BI%20for%20Data%20Analysts-Microsoft%20Press-CAFF3C?style=flat-square&labelColor=060D08" alt="powerbi-cert" />
-<img src="https://img.shields.io/badge/SQL%20for%20Data%20Analysis-CAFF3C?style=flat-square&labelColor=060D08" alt="sql-cert" />
-<img src="https://img.shields.io/badge/Python%20for%20Data%20Analysis-CAFF3C?style=flat-square&labelColor=060D08" alt="python-cert" />
-<img src="https://img.shields.io/badge/Machine%20Learning%20with%20Python-CAFF3C?style=flat-square&labelColor=060D08" alt="ml-cert" />
-<img src="https://img.shields.io/badge/Deep%20Learning%3A%20Image%20Recognition-CAFF3C?style=flat-square&labelColor=060D08" alt="dl-cert" />
-<img src="https://img.shields.io/badge/R%20for%20Data%20Science-CAFF3C?style=flat-square&labelColor=060D08" alt="r-cert" />
-<img src="https://img.shields.io/badge/Excel%20%2B%20ChatGPT%20Power%20Tips-CAFF3C?style=flat-square&labelColor=060D08" alt="excel-cert" />
-<img src="https://img.shields.io/badge/Intro%20to%20Data%20Science-CAFF3C?style=flat-square&labelColor=060D08" alt="ds-cert" />
-<img src="https://img.shields.io/badge/Advanced%20Algorithmic%20Thinking-CAFF3C?style=flat-square&labelColor=060D08" alt="algo-cert" />
-
-</div>
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## `> git stats --global`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Nilesh-builds&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=39FF14&currStreakLabel=CAFF3C&sideLabels=8AFF57&dates=8AFF57&currStreakNum=CAFF3C&sideNums=CAFF3C" alt="streak" />
+<img src="assets/skills.svg" width="100%" alt="Analytics expertise. Data Cleaning & EDA: advanced. Machine Learning: intermediate. Data Visualization: intermediate. SQL & Databases: intermediate. Statistical Analysis: intermediate. Cloud (AWS): working knowledge." />
 
 <br/>
+
+<img src="assets/h-journey.svg" width="100%" alt="Experience and education" />
+
+<img src="assets/journey.svg" width="100%" alt="Timeline. Education: BCA in Data Science at Sri Balaji University, Pune. Experience: Cloud Application Developer intern at Codefirst Technology, building cloud-native applications with AWS fundamentals. Now: open to Data Analyst, AI Trainer, AI Evaluation and Business Analyst roles." />
+
+<br/>
+
+<img src="assets/h-certs.svg" width="100%" alt="Certifications" />
+
+<img src="assets/certs.svg" width="100%" alt="Certifications: Power BI for Data Analysts (Microsoft Press), SQL for Data Analysis, Python for Data Analysis, Machine Learning with Python, Deep Learning: Image Recognition, R for Data Science, Excel + ChatGPT Power Tips, Intro to Data Science, Advanced Algorithmic Thinking." />
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<img src="assets/h-stats.svg" width="100%" alt="GitHub activity" />
+
+<div align="center">
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Nilesh-builds&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=39FF14&currStreakLabel=CAFF3C&sideLabels=8AFF57&dates=8AFF57&currStreakNum=CAFF3C&sideNums=CAFF3C" alt="GitHub contribution streak" />
+
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg" />
-  <img alt="contribution snake" src="assets/github-snake-dark.svg" />
+  <img alt="Contribution snake eating the GitHub contribution graph" src="assets/github-snake-dark.svg" />
 </picture>
 
 </div>
 
-## `> cat current-focus.yaml`
+<br/>
+
+<img src="assets/h-focus.svg" width="100%" alt="Current focus" />
 
 ```yaml
 learning:
@@ -212,25 +164,21 @@ open_to:
   - AI Trainer roles
 ```
 
-## `> ping me`
+<img src="assets/h-contact.svg" width="100%" alt="Contact" />
 
 <div align="center">
 
-<a href="mailto:kumarnilash509@gmail.com"><img src="https://img.shields.io/badge/Gmail-CAFF3C?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=060D08" alt="gmail" /></a>
-<a href="https://www.linkedin.com/in/nilesh-singh-b9b6932bb"><img src="https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=060D08" alt="linkedin" /></a>
-<a href="https://github.com/Nilesh-builds"><img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=000000&labelColor=060D08" alt="github" /></a>
-<a href="https://nilesh-builds.github.io/"><img src="https://img.shields.io/badge/Portfolio-CAFF3C?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=060D08" alt="portfolio" /></a>
+<img src="assets/contact-banner.svg" width="100%" alt="Let's talk data. Open to Data Analyst, Business Analyst, AI Trainer and AI Evaluation roles." />
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-<sub><i>// student by day &nbsp;|&nbsp; building an analytics portfolio, one dataset at a time</i></sub>
+<a href="mailto:kumarnilash509@gmail.com"><img src="assets/btn-email.svg" height="48" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/nilesh-singh-b9b6932bb"><img src="assets/btn-linkedin.svg" height="48" alt="LinkedIn" /></a>
+<a href="https://github.com/Nilesh-builds"><img src="assets/btn-github.svg" height="48" alt="GitHub" /></a>
+<a href="https://nilesh-builds.github.io/"><img src="assets/btn-portfolio.svg" height="48" alt="Portfolio" /></a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0a0f08&fontColor=CAFF3C" alt="footer" />
+<img src="assets/footer.svg" width="100%" alt="Student by day, building an analytics portfolio one dataset at a time." />
 
 </div>
